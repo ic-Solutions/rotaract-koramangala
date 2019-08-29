@@ -111,11 +111,20 @@
     color: #fff;
     padding: .5em 0
 }
+.top-header-bar a{
+    color: #fff
+}
+.top-header-bar a:hover{
+    color: #c1c1c1
+}
+.top-header-bar p{
+    color: #fff
+}
 .top-header-bar .social a{
     color: #fff;
-    width: 35px;
-    height: 35px;
-    line-height: 35px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
     margin-left: 5px;
     text-align: center;
     display: inline-block
@@ -125,8 +134,19 @@
     color: #000
 }
 .home_menu{
-    top: 50px
+    top: 35px
 }
 .banner_part{
     background-image: url(../img/new-banner_bg.png)
+}
+
+@media screen and (max-width: 600px){
+/*
+    .home_menu{
+        top: 25px !important
+    }
+*/
+    .banner_part{
+        background-size: 60%
+    }
 }
