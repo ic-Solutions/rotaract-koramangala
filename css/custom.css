@@ -139,7 +139,12 @@
 .banner_part{
     background-image: url(../img/new-banner_bg.png)
 }
-
+.modal-header .close {
+    color: #fff
+}
+#home_menu_id{
+    transition: .25s
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
