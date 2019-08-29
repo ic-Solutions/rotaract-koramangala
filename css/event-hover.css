@@ -75,7 +75,6 @@
   background-color: #fff;
   z-index: 10;
 }
-
 .sun {
   position: absolute;
   top: 50%;
@@ -107,48 +106,39 @@
 #sh3 {
   opacity: 0.3;
 }
-
 .st6 {
   fill: #59476f;
 }
-
 .st10 {
   fill: #c5a7e5;
   stroke: #222;
 }
-
 .st11 {
   stroke: #212121;
   opacity: 0.5;
 }
-
 #sh1 {
   fill: #f8c56f;
   opacity: 0.4;
 }
-
 .st0 {
   fill: #a25a62;
   stroke: none;
   stroke-miterlimit: 10;
 }
-
 .st1 {
   fill: none;
   stroke: #a25a62;
   stroke-width: 2;
   stroke-miterlimit: 10;
 }
-
 .st2 {
   fill: #cd775c;
 }
-
 .st3 {
   fill: #fff;
   opacity: 0.3;
 }
-
 .story {
   position: absolute;
   top: 45%;
@@ -158,27 +148,22 @@
   background: linear-gradient(to bottom, #eba65b 0%, #d99267 40%);
   z-index: 30;
 }
-
 #s1 {
   background: linear-gradient(to top, #5b62a2 0%, #7b88d1 100%);
 }
-
 #s2 {
   background: linear-gradient(to top, #5b62a2 0%, #7b88d1 120%);
 }
-
 .info {
   position: absolute;
   top: 10%;
 }
-
 .event-h3 {
   text-align: center;
   text-shadow: 0px 0px 10px #eee;
   color: #eee;
   letter-spacing: 2px;
 }
-
 .event-h4 {
   color: #111;
   position: absolute;
@@ -186,7 +171,6 @@
   left: 30%;
   letter-spacing: 2px;
 }
-
 .event-h1 {
   color: #111;
   position: fixed;
@@ -194,8 +178,7 @@
   left: 30%;
   letter-spacing: 2px;
 }
-
-p {
+.event-p {
   font-size: 14px;
   color: #fff;
   padding: 0px 20px 20px 20px;
@@ -203,7 +186,6 @@ p {
   text-align: center;
   letter-spacing: 1px;
 }
-
 .page {
   position: absolute;
   top: 80%;
@@ -212,9 +194,6 @@ p {
   height: 20%;
   z-index: 30;
 }
-
-
-
 @keyframes simple {
   50% {
     transform: translateX(10px);

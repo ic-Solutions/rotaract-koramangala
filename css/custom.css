@@ -17,7 +17,7 @@
     border-radius: 1rem
 }
 .card-body{
-    padding: 1rem 1.5rem;
+/*    padding: 1rem 1.5rem;*/
     border-radius: 1rem;
     min-height: 350px;
 }
@@ -26,7 +26,7 @@
     transition: .5s
 }
 .card-body h3{
-    text-align: center;
+/*    text-align: center;*/
     color: #fff
 }
 .card-body p{
@@ -111,8 +111,21 @@
     color: #fff;
     padding: .5em 0
 }
+.top-header-bar .social a{
+    color: #fff;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    margin-left: 5px;
+    text-align: center;
+    display: inline-block
+}
+.top-header-bar .social a:hover{
+    background-color: #fff;
+    color: #000
+}
 .home_menu{
-    top: 2%
+    top: 50px
 }
 .banner_part{
     background-image: url(../img/new-banner_bg.png)
