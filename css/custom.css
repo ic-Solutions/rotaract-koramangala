@@ -43,40 +43,54 @@
     color: #ebebff
 }
 .jul{
-    background-color: #000066
+    background-color: #000066;
+/*    background: linear-gradient(131deg, #000066, #003366, #007bff, #003399)*/
+    background: linear-gradient(131deg, #000066, #007bff)
 }
 .aug{
-    background-color: #003399
+    background-color: #003399;
+    background: linear-gradient(131deg, #6e48aa, #9d50bb)
+    
 }
 .sep{
-    background-color: #003366
+    background-color: #003366;
+    background: linear-gradient(131deg, #185a9d, #43cea2)
 }
 .oct{
-    background-color: #003333
+    background-color: #003333;
+    background: linear-gradient(131deg, #f15f79, #b24592)
 }
 .nov{
-    background-color: #003300
+    background-color: #003300;
+    background: linear-gradient(131deg, #005313, #0fd33b)
 }
 .dec{
-    background-color: #330066
+    background-color: #330066;
+    background: linear-gradient(131deg, #330066, #8744c9)
 }
 .jan{
-    background-color: #660066
+    background-color: #660066;
+    background: linear-gradient(131deg, #660066, #ff8dff)
 }
 .feb{
-    background-color: #990033
+    background-color: #990033;
+    background: linear-gradient(131deg, #990033, #ff6296)
 }
 .mar{
-    background-color: #663333
+    background-color: #663333;
+    background: linear-gradient(131deg, #663333, #e39d9d)
 }
 .apr{
-    background-color: #996600
+    background-color: #996600;
+    background: linear-gradient(131deg, #996600, #ebb74d)
 }
 .may{
-    background-color: #380000
+    background-color: #380000;
+    background: linear-gradient(131deg, #380000, #8f4444)
 }
 .jun{
-    background-color: #330033
+    background-color: #330033;
+    background: linear-gradient(131deg, #330033, #ff00ff)
 }
 .modal-dialog{
     max-width: 1000px;
