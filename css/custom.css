@@ -232,6 +232,72 @@ tr:nth-child(even) {
 .copyright_part .footer-social a{
     border: 1px solid #fff
 }
+.project_details{
+    padding: 0
+}
+.project_details .project_details_widget .single_project_details_widget {
+    padding-left: 0 !important;
+}
+.project_details .project_details_widget .single_project_details_widget span {
+    position: relative;
+    color: #000
+}
+/* Event page lightbox gallery Start*/
+.photo-gallery {
+  color:#313437;
+  background-color:#fff;
+}
+
+.photo-gallery p {
+  color:#7d8285;
+}
+
+.photo-gallery h2 {
+  font-weight:bold;
+  margin-bottom:40px;
+  padding-top:40px;
+  color:inherit;
+}
+
+@media (max-width:767px) {
+  .photo-gallery h2 {
+    margin-bottom:25px;
+    padding-top:25px;
+    font-size:24px;
+  }
+}
+
+.photo-gallery .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto 40px;
+}
+
+.photo-gallery .intro p {
+  margin-bottom:0;
+}
+
+.photo-gallery .photos {
+  padding-bottom:20px;
+}
+
+.photo-gallery .item {
+  padding-bottom:30px;
+}
+/* Event page lightbox gallery End*/
+.card-body hr{
+    border-top: 1px solid rgba(255,255,255,.2)
+}
+.events-border{
+    border: 1px solid #e1e1e1;
+    padding: 2em;
+}
+.main_menu .main-menu-item ul li a {
+    font-size: 18px;
+}
+.banner_part .banner_text p {
+    font-size: 18px
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
