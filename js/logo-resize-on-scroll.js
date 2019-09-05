@@ -15,10 +15,10 @@ function growShrinkLogo() {
 //Nav header top margin removal
 
 function hideMargin (){
-    var home_menu_id = document.getElementById("home_menu_id")
+    var home_menu_id = document.getElementById("menu_id")
     if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5){
-        home_menu_id.style.top = '0px';
+        menu_id.style.top = '0px';
     } else {
-        home_menu_id.style.top = '35px'
+        menu_id.style.top = '35px'
     }
 }
