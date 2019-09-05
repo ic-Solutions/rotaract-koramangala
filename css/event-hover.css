@@ -60,11 +60,20 @@
 }
 
 #i1 {
-  background: linear-gradient(to bottom, #59476f 30%, #7b88d1 100%);
+  background: linear-gradient(to bottom, #596633 0%, #9a905a 100%);
 }
 
 #i2 {
   background: linear-gradient(to bottom, #59476f 30%, #7b88d1 100%);
+}
+#i4 {
+  background: linear-gradient(to bottom, #596633 0%, #9a905a 100%);
+}
+#i5 {
+  background: linear-gradient(to bottom, #596633 0%, #9a905a 100%);
+}
+#i6 {
+  background: linear-gradient(to bottom, #596633 0%, #9a905a 100%);
 }
 
 .event-span {
@@ -149,10 +158,19 @@
   z-index: 30;
 }
 #s1 {
-  background: linear-gradient(to top, #5b62a2 0%, #7b88d1 100%);
+  background: linear-gradient(to top, #596633 0%, #9a905a 100%);
 }
 #s2 {
   background: linear-gradient(to top, #5b62a2 0%, #7b88d1 120%);
+}
+#s4 {
+  background: linear-gradient(to top, #87d6b1 0%, #01bb91 100%);
+}
+#s5 {
+  background: linear-gradient(to top, #ffadc5 0%, #d6557a 100%);
+}
+#s6 {
+  background: linear-gradient(to top, #b796fb 0%, #604b93 100%);
 }
 .info {
   position: absolute;
