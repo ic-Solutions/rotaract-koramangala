@@ -1,108 +1,109 @@
 ---
 layout: default
-permalink: /blood-bank/
+permalink: /blood-bank-search/
 ---
 
-  <!-- about part start-->
-    <section class="blood-bank-page mb-5">
-        <div class="container horizontal_scroll">
-           <h1 style="text-align: center" class="pb-5">Donors Database </h1>
-           <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Blood group.." title="Search for Blood group">
-           <span class="mobile-text">Swipe right for phone numbers</span>
-           <table id="myTable">
-              <tr>
-               <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:-->
-                <th onclick="sortTable(0)"><span>Click to sort</span><br>Blood Group </th>
-                <th onclick="sortTable(1)"><span>Click to sort</span><br>Donar Location</th>
-                <th>Name</th>
-                <th>Phone</th>
-              </tr>
-              <tr>
-                <td>O+</td>
-                <td>Hebbal</td>
-                <td>Prajwal Kumar</td>
-                <td>9008622582</td>
-              </tr>
-              <tr>
-                <td>B+</td>
-                <td>JP Nagar</td>
-                <td>Anurag</td>
-                <td>9957171355</td>
-              </tr>
-              <tr>
-                <td>O+</td>
-                <td>Banashankari</td>
-                <td>Naveen P</td>
-                <td>8904381632</td>
-              </tr>
-              <tr>
-                <td>O+</td>
-                <td>Malleshwaram</td>
-                <td>Vivek Raveesh Bhatt	</td>
-                <td>8971106444</td>
-              </tr>
-              <tr>
-                <td>O+</td>
-                <td>Jayanagar</td>
-                <td>T.N.Balaji</td>
-                <td>8309186061</td>
-              </tr>
-              <tr>
-                <td>O-</td>
-                <td>Banashankari</td>
-                <td>Varun P	</td>
-                <td>9945266800</td>
-              </tr>
-              <tr>
-                <td>A+</td>
-                <td>Hebbal</td>
-                <td>Rahul Reddy	</td>
-                <td>8951660875</td>
-              </tr>
-              <tr>
-                <td>A+</td>
-                <td>Rajajinagar</td>
-                <td>Praveen</td>
-                <td>9880111554</td>
-              </tr>
-              <tr>
-                <td>A-</td>
-                <td>Janabharati</td>
-                <td>Deepak R</td>
-                <td>9448127668</td>
-              </tr>
-              <tr>
-                <td>B+</td>
-                <td>JP Nagar</td>
-                <td>Sharath</td>
-                <td>8095969667</td>
-              </tr>
-              <tr>
-                <td>B+</td>
-                <td>Karthriguppe</td>
-                <td>Uday Kumar y</td>
-                <td>9738669096</td>
-              </tr>
-              <tr>
-                <td>B+</td>
-                <td>Ramamurthy Nagar</td>
-                <td>Vishwas</td>
-                <td>7892128570</td>
-              </tr>
-              <tr>
-                <td>B-</td>
-                <td>kumarswamy layout</td>
-                <td>Priyansh Shrivastava</td>
-                <td>7411627686</td>
-              </tr>
-              <tr>
-                <td>AB+</td>
-                <td>Hebbal</td>
-                <td>Rtr. K. Achutha Kumar</td>
-                <td>8919402845</td>
-              </tr>
-            </table>
-        </div>
-    </section>
+<!-- about part start-->
+<section class="blood-bank-page mb-5">
+  <div class="container horizontal_scroll">
+    <h1 style="text-align: center" class="pb-5">Donors Database </h1>
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for Blood group.."
+      title="Search for Blood group">
+    <span class="mobile-text">Swipe right for phone numbers</span>
+    <table id="myTable">
+      <tr>
+        <!--When a header is clicked, run the sortTable function, with a parameter, 0 for sorting by names, 1 for sorting by country:-->
+        <th onclick="sortTable(0)"><span>Click to sort</span><br>Blood Group </th>
+        <th onclick="sortTable(1)"><span>Click to sort</span><br>Donar Location</th>
+        <th>Name</th>
+        <th>Phone</th>
+      </tr>
+      <tr>
+        <td>O+</td>
+        <td>Hebbal</td>
+        <td>Prajwal Kumar</td>
+        <td>9008622582</td>
+      </tr>
+      <tr>
+        <td>B+</td>
+        <td>JP Nagar</td>
+        <td>Anurag</td>
+        <td>9957171355</td>
+      </tr>
+      <tr>
+        <td>O+</td>
+        <td>Banashankari</td>
+        <td>Naveen P</td>
+        <td>8904381632</td>
+      </tr>
+      <tr>
+        <td>O+</td>
+        <td>Malleshwaram</td>
+        <td>Vivek Raveesh Bhatt </td>
+        <td>8971106444</td>
+      </tr>
+      <tr>
+        <td>O+</td>
+        <td>Jayanagar</td>
+        <td>T.N.Balaji</td>
+        <td>8309186061</td>
+      </tr>
+      <tr>
+        <td>O-</td>
+        <td>Banashankari</td>
+        <td>Varun P </td>
+        <td>9945266800</td>
+      </tr>
+      <tr>
+        <td>A+</td>
+        <td>Hebbal</td>
+        <td>Rahul Reddy </td>
+        <td>8951660875</td>
+      </tr>
+      <tr>
+        <td>A+</td>
+        <td>Rajajinagar</td>
+        <td>Praveen</td>
+        <td>9880111554</td>
+      </tr>
+      <tr>
+        <td>A-</td>
+        <td>Janabharati</td>
+        <td>Deepak R</td>
+        <td>9448127668</td>
+      </tr>
+      <tr>
+        <td>B+</td>
+        <td>JP Nagar</td>
+        <td>Sharath</td>
+        <td>8095969667</td>
+      </tr>
+      <tr>
+        <td>B+</td>
+        <td>Karthriguppe</td>
+        <td>Uday Kumar y</td>
+        <td>9738669096</td>
+      </tr>
+      <tr>
+        <td>B+</td>
+        <td>Ramamurthy Nagar</td>
+        <td>Vishwas</td>
+        <td>7892128570</td>
+      </tr>
+      <tr>
+        <td>B-</td>
+        <td>kumarswamy layout</td>
+        <td>Priyansh Shrivastava</td>
+        <td>7411627686</td>
+      </tr>
+      <tr>
+        <td>AB+</td>
+        <td>Hebbal</td>
+        <td>Rtr. K. Achutha Kumar</td>
+        <td>8919402845</td>
+      </tr>
+    </table>
+  </div>
+</section>
 
-    <!-- about part start-->
+<!-- about part start-->

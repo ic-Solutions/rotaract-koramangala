@@ -4,48 +4,48 @@
 {% include head.html %}
 
 <body>
-    <!--::header part start::-->
-    {% include top-bar.html %}
-    {% if page.type == 'home' %}
-      {% include header.html %}
-    {% else %}
-      {% include header-page.html %}
-    {% endif %}
+  <!--::header part start::-->
+  {% include top-bar.html %}
+  {% if page.type == 'home' %}
+  {% include header.html %}
+  {% else %}
+  {% include header-page.html %}
+  {% endif %}
 
 
-    {{content}}
+  {{content}}
 
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-    <!-- jquery plugins here-->
-    <!-- jquery -->
-    <script src="/js/jquery-1.12.1.min.js"></script>
+  <!-- jquery plugins here-->
+  <!-- jquery -->
+  <script src="/js/jquery-1.12.1.min.js"></script>
 
-    <script src="/js/logo-resize-on-scroll.js"></script>
+  <script src="/js/logo-resize-on-scroll.js"></script>
 
-    {% if page.url == '/blood-bank/' %}
-      <!-- blood bank search -->
-      <script src="/js/blood-bank-sort-table.js"></script>
-      <script src="/js/blood-bank-search.js"></script>
-    {% endif %}
+  {% if page.url == '/blood-bank-search/' %}
+  <!-- blood bank search -->
+  <script src="/js/blood-bank-sort-table.js"></script>
+  <script src="/js/blood-bank-search.js"></script>
+  {% endif %}
 
-    <!-- popper js -->
-    <script src="/js/popper.min.js"></script>
-    <!-- bootstrap js -->
-    <script src="/js/bootstrap.min.js"></script>
-    <!-- easing js -->
-    <script src="/js/jquery.magnific-popup.js"></script>
-    <!-- swiper js -->
-    <script src="/js/swiper.min.js"></script>
-    <!-- swiper js -->
-    <script src="/js/masonry.pkgd.js"></script>
-    <!-- particles js -->
-    <script src="/js/owl.carousel.min.js"></script>
-    <!-- swiper js -->
-    <script src="/js/slick.min.js"></script>
-    <!-- custom js -->
-    <script src="/js/custom.js"></script>
+  <!-- popper js -->
+  <script src="/js/popper.min.js"></script>
+  <!-- bootstrap js -->
+  <script src="/js/bootstrap.min.js"></script>
+  <!-- easing js -->
+  <script src="/js/jquery.magnific-popup.js"></script>
+  <!-- swiper js -->
+  <script src="/js/swiper.min.js"></script>
+  <!-- swiper js -->
+  <script src="/js/masonry.pkgd.js"></script>
+  <!-- particles js -->
+  <script src="/js/owl.carousel.min.js"></script>
+  <!-- swiper js -->
+  <script src="/js/slick.min.js"></script>
+  <!-- custom js -->
+  <script src="/js/custom.js"></script>
 
 
 
