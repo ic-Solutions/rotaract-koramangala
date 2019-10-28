@@ -147,7 +147,7 @@
 }
 .banner_part{
     background-image: url(../img/new-banner_bg-2.png);
-    background-color: #eee1d1
+    background-color: #eee1d1;
 }
 .modal-header .close {
     color: #fff
@@ -345,6 +345,11 @@ tr:nth-child(even) {
 }
 .project_details .btn{
     margin-top: 0
+}
+.new-menu{
+    background: rgba(255,255,255,.7);
+    border-radius: 15px;
+    padding: 10px;
 }
 @media screen and (max-width: 600px){
 /*
