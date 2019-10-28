@@ -1,7 +1,7 @@
 .slideshow {
   position: relative;
   width: 100vw;
-  height: 100vh;
+  height: 90vh;
   overflow: hidden;
 }
 
@@ -266,4 +266,10 @@
 .kenburn h1 small:last-child {
   border-top: 1px solid rgba(0, 0, 0, 0.25);
   padding-top: 0.5em;
+}
+@media screen and (max-width: 600px){
+    .kenburn h1{
+        padding: 1em;
+        font-size: 2em
+    }
 }
