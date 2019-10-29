@@ -234,7 +234,9 @@ tr:nth-child(even) {
 	0% { background-position: 0% 50%; }
 	100% { background-position: 100% 50%; }
 }
-
+.copyright_part {
+    padding: 10px 0px
+}
 .copyright_part .footer-social a:hover {
     background-color: #000 !important;
 }
@@ -350,6 +352,25 @@ tr:nth-child(even) {
     background: rgba(255,255,255,.7);
     border-radius: 15px;
     padding: 10px;
+}
+.footer-area .single-footer-widget p a{
+    color: #666666
+}
+.footer-area .single-footer-widget p a:hover{
+    color: #ff7e5f
+}
+.footer-area .single-footer-widget .footer-social a{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    line-height: 35px;
+    border: 1px solid #666666;
+    text-align: center;
+/*    margin-left: 10px;*/
+    color: #666666;
+}
+.footer-area .single-footer-widget .footer-social a:hover{
+    color: #ff7e5f
 }
 @media screen and (max-width: 600px){
 /*
