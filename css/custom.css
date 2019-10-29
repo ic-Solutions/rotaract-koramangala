@@ -372,6 +372,15 @@ tr:nth-child(even) {
 .footer-area .single-footer-widget .footer-social a:hover{
     color: #ff7e5f
 }
+.about_part{
+    padding: 0px
+}
+.about-gallery{
+    background: #6961a6
+}
+.about-gallery h2{
+    font-size: 30px !important
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
