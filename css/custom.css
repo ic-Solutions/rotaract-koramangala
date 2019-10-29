@@ -391,4 +391,13 @@ tr:nth-child(even) {
     .banner_text_iner{
         vertical-align: bottom !important
     }
+    .navbar-light .navbar-toggler{
+        border-color: #fff
+    }
+    
+}
+@media screen and (max-width: 400px){
+    .top-header-bar p{
+        font-size: .8em
+    }
 }
