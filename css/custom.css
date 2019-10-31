@@ -376,7 +376,7 @@ tr:nth-child(even) {
     padding: 0px
 }
 .about-gallery{
-    background: linear-gradient(90deg, #6961a6, #8b4a97) 
+    background: linear-gradient(90deg, #6961a6, #8b4a97)
 }
 .about-gallery h2{
     font-size: 50px !important;
