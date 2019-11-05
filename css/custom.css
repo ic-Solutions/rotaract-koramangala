@@ -385,6 +385,10 @@ tr:nth-child(even) {
 .about-gallery img{
     border-radius: 15px
 }
+.thank-you{
+    padding: 5em 0;
+    background: #c5bb9a
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
