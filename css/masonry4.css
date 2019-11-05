@@ -1,0 +1,37 @@
+#grid[data-columns]::before {
+	content: '3 .column.size-1of3';
+    @include media-query($on-laptop){
+        content: '3 .column.size-1of3';
+    }
+    
+       @include media-query($on-palm){
+        content: '1 .column.size-1of1';
+    }
+}
+
+
+
+
+
+/* Again, you’re free to use and define the classes: */
+.column { float: left; }
+.size-1of1 { width: 100%; }
+.size-1of2 { width: 50%; }
+.size-1of3 { width: 33.333%; }
+/*Image full width*/
+.size-lof5 img { width: inherit}
+
+
+
+
+
+
+/* These are the classes that are going to be applied: */
+.column { 
+/*    float: left;*/
+    
+}
+.size-1of4 { 
+     width: 25%;
+
+}
