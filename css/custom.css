@@ -420,6 +420,18 @@ tr:nth-child(even) {
     min-height: 250px;
     object-fit: cover
 }
+.hof .intro{
+    position: sticky;
+    top: 150px;
+    z-index: 9;
+    max-width: 300px;
+    margin: 0;
+}
+.hof h2{
+    margin: 0 !important;
+    padding-top: 0 !important;
+    padding-left: 10px
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
