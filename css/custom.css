@@ -426,11 +426,13 @@ tr:nth-child(even) {
     z-index: 9;
     max-width: 300px;
     margin: 0;
+    border-radius: 35px
 }
 .hof h2{
     margin: 0 !important;
     padding-top: 0 !important;
-    padding-left: 10px
+    padding-left: 10px;
+    text-align: center
 }
 @media screen and (max-width: 600px){
 /*
