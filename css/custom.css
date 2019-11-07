@@ -410,6 +410,16 @@ tr:nth-child(even) {
     padding: 8em 0;
     background: #c5bb9a
 }
+.hof-gallery .item{
+    height: 250px;
+    overflow: hidden;
+    margin-bottom: 25px
+}
+.hof-gallery img{
+    height: auto;
+    min-height: 250px;
+    object-fit: cover
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
@@ -432,7 +442,14 @@ tr:nth-child(even) {
     .navbar-light .navbar-toggler{
         border-color: #fff
     }
-    
+    .hof-gallery .item{
+        height: auto;
+        margin: 0;
+        padding-bottom: 10px
+    }
+    .hof-gallery img {
+        min-height: auto
+    }
 }
 @media screen and (max-width: 400px){
     .top-header-bar p{
