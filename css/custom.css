@@ -434,6 +434,13 @@ tr:nth-child(even) {
     padding-left: 10px;
     text-align: center
 }
+/*Lightbox nav*/
+.lb-nav{
+    width: auto !important;
+    right: -60px !important;
+    left: -60px !important
+}
+
 @media screen and (max-width: 600px){
 /*
     .home_menu{
@@ -464,6 +471,11 @@ tr:nth-child(even) {
     .hof-gallery img {
         min-height: auto
     }
+    .lb-nav{
+    width: 100% !important;
+    right: 0 !important;
+    left: 0 !important
+}
 }
 @media screen and (max-width: 400px){
     .top-header-bar p{
