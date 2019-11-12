@@ -394,7 +394,8 @@ tr:nth-child(even) {
     color: #ff7e5f
 }
 .about_part{
-    padding: 0px
+    padding: 0px;
+    background: #f3f3f3
 }
 .about-gallery{
     background: linear-gradient(90deg, #6961a6, #8b4a97)
