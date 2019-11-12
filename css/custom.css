@@ -440,7 +440,26 @@ tr:nth-child(even) {
     right: -60px !important;
     left: -60px !important
 }
-
+.focus-area h2{
+    color: #fff;
+    text-align: center
+}
+.focus-area h4{
+    text-align: center
+}
+.focus-area p{
+    color: #e1e1e1;
+}
+.focus-area img{
+    border-radius: 15px 15px 0 0
+}
+.focus-area .card{
+    min-height: 435px;
+}
+.focus-area .card:hover{
+    transform: scale(.95);
+    transition: .5s all ease;
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
