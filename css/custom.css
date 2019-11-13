@@ -466,10 +466,17 @@ tr:nth-child(even) {
     background: linear-gradient(130deg, #003a77, #0154ac)
 }
 .fourway .waybox{
-    padding: 2em;
+    padding: 0 0 2em 0;
     background: #fff;
     border-radius: 5px;
-    min-height: 175px
+    min-height: 335px
+}
+.fourway .waybox:hover{
+    transform: scale(1.05);
+    transition: .5s all ease;
+}
+.fourway .waybox img{
+    border-radius: 5px 5px 0 0;
 }
 .fourway .waybox h5{
     background: #ffc107;
