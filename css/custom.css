@@ -472,7 +472,7 @@ tr:nth-child(even) {
     min-height: 335px
 }
 .fourway .waybox:hover{
-    transform: scale(1.05);
+    transform: scale(.95);
     transition: .5s all ease;
 }
 .fourway .waybox img{
