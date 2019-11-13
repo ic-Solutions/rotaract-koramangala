@@ -461,6 +461,29 @@ tr:nth-child(even) {
     transform: scale(.95);
     transition: .5s all ease;
 }
+.fourway .waybox{
+    padding: 2em;
+    background: #195fa9;
+    border-radius: 5px;
+    min-height: 175px
+}
+.fourway .waybox h5{
+    background: #fff707;
+    padding: 1em;
+    word-wrap: break-word;
+    border-radius: 50%;
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: #191919
+}
+.fourway .waybox h4{
+    color: #fff
+}
+.fourway .waybox span{
+    color: #fff707
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
