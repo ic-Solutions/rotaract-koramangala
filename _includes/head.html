@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>{{ page.title | default: site.title }}</title>
-    <meta content="/img/log-small.png" property="og:image" itemprop="image">
+<!--    <meta content="http://rotaractkoramangala.org/img/log-small.png" property="og:image" itemprop="image">-->
+    <meta property="og:image" content="{{ site.url }}/img/{{ page.image }}" itemprop="image">
     <meta property="og:type" content="website" />
     <meta name="description" content="Rotaract Club of Koramangala is a community based club of youngsters (18 to 30 years of age).We organize and participate in projects with an aim to create a change in the society.">
     <link rel="icon" href="/img/favicon.jpg">
@@ -13,15 +14,15 @@
     <!-- animate CSS -->
 <!--    <link rel="stylesheet" href="/css/animate.css">-->
     <!-- owl carousel CSS -->
-    <link rel="stylesheet" href="/css/owl.carousel.min.css">
-    <!-- themify CSS -->
-    <link rel="stylesheet" href="/css/themify-icons.css">
+<!--    <link rel="stylesheet" href="/css/owl.carousel.min.css">-->    
     <!-- flaticon CSS -->
 <!--    <link rel="stylesheet" href="/css/flaticon.css">-->
     <!-- font awesome CSS -->
 <!--    <link rel="stylesheet" href="/css/magnific-popup.css">-->
     <!-- swiper CSS -->
 <!--    <link rel="stylesheet" href="/css/slick.css">-->
+   <!-- themify CSS -->
+    <link rel="stylesheet" href="/css/themify-icons.css">
     <!-- style CSS -->
     <link rel="stylesheet" href="/css/style.css">
     <!-- Custom CSS   -->
@@ -34,5 +35,4 @@
     <link rel="stylesheet" href="/css/kenburn-slide.css">
     <!-- Stats Counter   -->
     <link rel="stylesheet" href="/css/counter.css">
-
 </head>
