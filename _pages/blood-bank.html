@@ -19,13 +19,16 @@ image: /img/share-logo.png
         <th onclick="sortTable(1)"><span>Click to sort</span><br>Donar Location</th>
         <th>Name</th>
         <th>Phone</th>
-      </tr>
+      </tr> 
+      {% for bb in site.data.blood-bank %}
       <tr>
-        <td>O+</td>
-        <td>Hebbal</td>
-        <td>Prajwal Kumar</td>
-        <td>9008622582</td>
+        <td>{{bb.blood-group}}</td>
+        <td>{{bb.location}}</td>
+        <td>{{bb.name}}</td>
+        <td>{{bb.phone}}</td>
       </tr>
+      {% endfor %}
+<!--
       <tr>
         <td>B+</td>
         <td>JP Nagar</td>
@@ -104,6 +107,7 @@ image: /img/share-logo.png
         <td>Rtr. K. Achutha Kumar</td>
         <td>8919402845</td>
       </tr>
+-->
     </table>
   </div>
 </section>
