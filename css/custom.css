@@ -499,6 +499,27 @@ tr:nth-child(even) {
     height: 300px;
     object-fit: cover
 }
+
+.blog-section {
+    background: #f3f3f3
+}
+.blog-section .card h3{
+    margin: 15px
+}
+.blog-section .card p{
+    margin: 0 15px 15px 15px;
+    text-overflow: ellipsis;
+/*    white-space: nowrap;*/
+    overflow: hidden;
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+/*
+    display: inline-block;
+    height: 50px
+*/
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
