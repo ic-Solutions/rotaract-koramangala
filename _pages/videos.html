@@ -1,7 +1,96 @@
 ---
 layout: default
 permalink: /videos/
-title: Blog | Rotaract Club of Koramangala - Rotaract Bangalore
+title: Videos | Rotaract Club of Koramangala - Rotaract Bangalore
 image: /img/about_img_1-new.png
 ---
 
+
+<section class="videos-page">
+    <h2 class="pb-5 text-center"> 2019 - 2020 </h2> 
+    <div class="dec py-5 mb-3">
+    <div class="container">        
+        <h2 class="text-center white-text">Community Service</h2>
+        <div class="row py-5">
+            {% for vid in site.data.videos-community-service %}
+                <div class="col-lg-6">                    
+                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
+                    <h4 class="text-center my-2">{{vid.title}}</h4>                    
+                </div>
+            {% endfor %}
+        </div>        
+    </div>
+    </div>
+    <div class="jan py-5 mb-3">
+    <div class="container">        
+        <h2 class="text-center white-text">Professional Development</h2>
+        <div class="row py-5">
+            {% for vid in site.data.videos-professional %}
+                <div class="col-lg-6">                    
+                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
+                    <h4 class="text-center my-2">{{vid.title}}</h4>                    
+                </div>
+            {% endfor %}
+        </div>        
+    </div>
+    </div>
+    <div class="jul py-5">
+    <div class="container">        
+        <h2 class="text-center white-text">Club Service</h2>
+        <div class="row py-5">
+            {% for vid in site.data.videos-club-service %}
+                <div class="col-lg-4">                    
+                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
+                    <h4 class="text-center my-2">{{vid.title}}</h4>                    
+                </div>
+            {% endfor %}
+        </div>        
+    </div>
+    </div>
+</section>
+
+<!-- Modal Comunity Service-->
+{% for vid in site.data.videos-community-service %}
+    <div id="{{vid.id}}" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">      
+          <div class="modal-body">
+
+            <iframe width="100%" height="500" src="{{vid.videolink}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          </div>
+        </div>
+      </div>
+    </div>
+{% endfor %}
+
+<!-- Modal Professional Development-->
+{% for vid in site.data.videos-professional %}
+    <div id="{{vid.id}}" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">      
+          <div class="modal-body">
+
+            <iframe width="100%" height="500" src="{{vid.videolink}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          </div>
+        </div>
+      </div>
+    </div>
+{% endfor %}
+
+
+<!-- Modal Club Service-->
+{% for vid in site.data.videos-club-service %}
+    <div id="{{vid.id}}" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">      
+          <div class="modal-body">
+
+            <iframe width="100%" height="500" src="{{vid.videolink}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          </div>
+        </div>
+      </div>
+    </div>
+{% endfor %}
