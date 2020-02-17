@@ -523,11 +523,22 @@ tr:nth-child(even) {
     height: 50px
 */
 }
-.videos-page h3,h4{
+.videos-page h3, .videos-page h4{
     color: #fff
 }
+/*
 .white-text {
     color: #fff
+}
+*/
+.videos-home{
+    padding: 6em 0;
+    background: linear-gradient(130deg, #00776c, #0184ac)
+}
+.btn-center{
+    display: block;
+    margin: 45px auto 0 auto;
+    max-width: max-content;
 }
 @media screen and (max-width: 600px){
 /*
