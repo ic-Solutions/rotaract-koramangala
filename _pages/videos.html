@@ -14,7 +14,7 @@ image: /img/about_img_1-new.png
         <div class="row py-5">
             {% for vid in site.data.videos.community %}
                 <div class="col-lg-6">                    
-                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
+                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}" data-video="{{vid.videolink}}" class="videos-modal"><img src="{{vid.image}}" alt=""></a>
                     <h4 class="text-center my-2">{{vid.title}}</h4>                    
                 </div>
             {% endfor %}
@@ -27,7 +27,7 @@ image: /img/about_img_1-new.png
         <div class="row py-5">
             {% for vid in site.data.videos.profesional %}
                 <div class="col-lg-6">                    
-                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
+                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}" data-video="{{vid.videolink}}" class="videos-modal"><img src="{{vid.image}}" alt=""></a>
                     <h4 class="text-center my-2">{{vid.title}}</h4>                    
                 </div>
             {% endfor %}
@@ -40,7 +40,7 @@ image: /img/about_img_1-new.png
         <div class="row py-5">
             {% for vid in site.data.videos.club %}
                 <div class="col-lg-4">                    
-                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
+                    <a href="#" data-toggle="modal" data-target="#{{vid.id}}" data-video="{{vid.videolink}}" class="videos-modal"><img src="{{vid.image}}" alt=""></a>
                     <h4 class="text-center my-2">{{vid.title}}</h4>                    
                 </div>
             {% endfor %}
@@ -56,7 +56,7 @@ image: /img/about_img_1-new.png
         <div class="modal-content">      
           <div class="modal-body">
 
-            <iframe width="100%" height="500" src="{{vid.videolink}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="500" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           </div>
         </div>
@@ -71,7 +71,7 @@ image: /img/about_img_1-new.png
         <div class="modal-content">      
           <div class="modal-body">
 
-            <iframe width="100%" height="500" src="{{vid.videolink}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="500" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           </div>
         </div>
@@ -87,7 +87,7 @@ image: /img/about_img_1-new.png
         <div class="modal-content">      
           <div class="modal-body">
 
-            <iframe width="100%" height="500" src="{{vid.videolink}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="500" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           </div>
         </div>
