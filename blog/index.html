@@ -1,0 +1,29 @@
+---
+layout: default
+permalink: /blog/
+title: Blog | Rotaract Club of Koramangala - Rotaract Bangalore
+image: /img/about_img_1-new.png
+---
+
+<section class="blog-section pb-5">
+  <h2 class="text-center py-5">Blog</h2>
+  <div class="container">
+    <div class="row">
+
+      {% for item in site.posts %}
+      <div class="col-lg-4 mb-3">
+        <a href="{{item.url}}">
+          <div class="card text-center pb-2">
+            <img src="{{item.image}}" alt="{{item.title}}">
+            <h3>{{item.title}}</h3>
+            <p>{{item.description}}</p>
+            <hr>
+            <a href="{{item.url}}" class="btn">Read More</a>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
