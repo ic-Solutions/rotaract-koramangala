@@ -1,0 +1,53 @@
+community:
+    - id: cosvideo1
+      image: /img/videos/wins-mhm-program.jpg
+      videolink: https://www.youtube.com/embed/OSbpiUcyiUg
+      title: WinS and MHM Program
+
+    - id: cosvideo2
+      image: /img/videos/change-is-in-the-bag-you-carry.png
+      videolink: https://www.youtube.com/embed/eZRL6FnRtIc
+      title: CHANGE is in the BAG you CARRY
+  
+profesional:
+    - id: pdvideo1
+      image: /img/videos/Spoken-Kannada-Learning-Program-a-Rotaract-Initiative.png
+      videolink: https://www.youtube.com/embed/u63MS6Wp9Hg
+      title: Spoken Kannada Learning Program, a Rotaract Initiative
+
+    - id: pdvideo2
+      image: /img/videos/Spoken-Kannada-Learning-Program-2_0.png
+      videolink: https://www.youtube.com/embed/QZsGSONJ-OM
+      title: Spoken Kannada Learning Program 2.0
+
+club:
+    - id: clsvideo1
+      image: /img/videos/rotafit.png
+      videolink: https://www.youtube.com/embed/yfKaa8wHQj8
+      title: Rotafit
+
+    - id: clsvideo2
+      image: /img/videos/gamepoint_3_0.png
+      videolink: https://www.youtube.com/embed/22faeYRjumc
+      title: Gamepoint 3.0
+
+    - id: clsvideo3
+      image: /img/videos/what-does-rotaract-mean-to-you.png
+      videolink: https://www.youtube.com/embed/XTh3trri6KY
+      title: What Does Rotaract Mean to You ?
+      
+featured:
+    - id: cosvideo1
+      image: /img/videos/wins-mhm-program.jpg
+      videolink: https://www.youtube.com/embed/OSbpiUcyiUg
+      title: WinS and MHM Program
+      
+    - id: pdvideo1
+      image: /img/videos/Spoken-Kannada-Learning-Program-a-Rotaract-Initiative.png
+      videolink: https://www.youtube.com/embed/u63MS6Wp9Hg
+      title: Spoken Kannada Learning Program, a Rotaract Initiative
+      
+    - id: clsvideo1
+      image: /img/videos/rotafit.png
+      videolink: https://www.youtube.com/embed/yfKaa8wHQj8
+      title: Rotafit

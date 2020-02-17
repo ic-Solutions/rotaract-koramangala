@@ -10,9 +10,9 @@ image: /img/about_img_1-new.png
     <h2 class="pb-5 text-center"> 2019 - 2020 </h2> 
     <div class="dec py-5 mb-3">
     <div class="container">        
-        <h2 class="text-center white-text">Community Service</h2>
+        <h2 class="text-center text-light">Community Service</h2>
         <div class="row py-5">
-            {% for vid in site.data.videos-community-service %}
+            {% for vid in site.data.videos.community %}
                 <div class="col-lg-6">                    
                     <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
                     <h4 class="text-center my-2">{{vid.title}}</h4>                    
@@ -23,9 +23,9 @@ image: /img/about_img_1-new.png
     </div>
     <div class="jan py-5 mb-3">
     <div class="container">        
-        <h2 class="text-center white-text">Professional Development</h2>
+        <h2 class="text-center text-light">Professional Development</h2>
         <div class="row py-5">
-            {% for vid in site.data.videos-professional %}
+            {% for vid in site.data.videos.profesional %}
                 <div class="col-lg-6">                    
                     <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
                     <h4 class="text-center my-2">{{vid.title}}</h4>                    
@@ -36,9 +36,9 @@ image: /img/about_img_1-new.png
     </div>
     <div class="jul py-5">
     <div class="container">        
-        <h2 class="text-center white-text">Club Service</h2>
+        <h2 class="text-center text-light">Club Service</h2>
         <div class="row py-5">
-            {% for vid in site.data.videos-club-service %}
+            {% for vid in site.data.videos.club %}
                 <div class="col-lg-4">                    
                     <a href="#" data-toggle="modal" data-target="#{{vid.id}}"><img src="{{vid.image}}" alt=""></a>
                     <h4 class="text-center my-2">{{vid.title}}</h4>                    
@@ -50,7 +50,7 @@ image: /img/about_img_1-new.png
 </section>
 
 <!-- Modal Comunity Service-->
-{% for vid in site.data.videos-community-service %}
+{% for vid in site.data.videos.community %}
     <div id="{{vid.id}}" class="modal fade" role="dialog">
       <div class="modal-dialog">
         <div class="modal-content">      
@@ -65,7 +65,7 @@ image: /img/about_img_1-new.png
 {% endfor %}
 
 <!-- Modal Professional Development-->
-{% for vid in site.data.videos-professional %}
+{% for vid in site.data.videos.profesional %}
     <div id="{{vid.id}}" class="modal fade" role="dialog">
       <div class="modal-dialog">
         <div class="modal-content">      
@@ -81,7 +81,7 @@ image: /img/about_img_1-new.png
 
 
 <!-- Modal Club Service-->
-{% for vid in site.data.videos-club-service %}
+{% for vid in site.data.videos.club %}
     <div id="{{vid.id}}" class="modal fade" role="dialog">
       <div class="modal-dialog">
         <div class="modal-content">      
