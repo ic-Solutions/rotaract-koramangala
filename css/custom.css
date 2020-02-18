@@ -449,7 +449,8 @@ tr:nth-child(even) {
     text-align: center
 }
 .focus-area h4{
-    text-align: center
+    text-align: center;
+    height: 2em
 }
 .focus-area p{
     color: #e1e1e1;
@@ -458,11 +459,11 @@ tr:nth-child(even) {
     border-radius: 15px 15px 0 0
 }
 .focus-area .card{
-    min-height: 435px;
+/*    min-height: 435px;*/
+    transition: .5s all ease;
 }
 .focus-area .card:hover{
-    transform: scale(.95);
-    transition: .5s all ease;
+    transform: scale(.95);    
 }
 .fourway {
     padding: 6rem 0;
@@ -472,11 +473,13 @@ tr:nth-child(even) {
     padding: 0 0 2em 0;
     background: #fff;
     border-radius: 5px;
-    min-height: 390px
+/*    min-height: 390px*/
+    transition: .5s all ease;
+    position: relative
 }
 .fourway .waybox:hover{
     transform: scale(.95);
-    transition: .5s all ease;
+    
 }
 .fourway .waybox img{
     border-radius: 5px 5px 0 0;
@@ -490,10 +493,14 @@ tr:nth-child(even) {
     display: block;
     margin: 0 auto;
     text-align: center;
-    color: #191919
+    color: #191919;
+    position: absolute;
+    top: 0;
+    right: 1em
 }
 .fourway .waybox h4{
-    color: #003a77
+    color: #003a77;
+    height: 1em
 }
 .fourway .waybox span{
     color: #007bff
