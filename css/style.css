@@ -2678,7 +2678,7 @@ ul {
   height: 880px;
   position: relative;
   overflow: hidden;
-  background-image: url(../img/banner_bg.png);
+  background-image: url(/img/banner_bg.png);
   background-repeat: no-repeat;
   background-size: 41%;
   background-position: top right;
@@ -2892,7 +2892,7 @@ ul {
   position: relative;
   z-index: 1;
   padding: 70px 0px 140px;
-  background-image: url(../img/about_overlay.png);
+  background-image: url(/img/about_overlay.png);
   background-repeat: no-repeat;
   background-position: left;
   background-size: 33% 73%;
@@ -3038,7 +3038,7 @@ ul {
 
 /* line 89, E:/167 Bizcon Business/Bizcon_html/sass/_about.scss */
 .our_service_part {
-  background-image: url(../img/service_bg_2.png);
+  background-image: url(/img/service_bg_2.png);
   background-repeat: no-repeat;
   background-position: left;
   background-size: 29% 86%;
@@ -4685,7 +4685,7 @@ ul {
 
 /* line 1, E:/167 Bizcon Business/Bizcon_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  background-image: url("/img/breadcrumb.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5871,7 +5871,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 798, E:/167 Bizcon Business/Bizcon_html/sass/_elements.scss */
 .primary-checkbox input:checked + label {
-  background: url(../img/elements/primary-check.png) no-repeat center center/cover;
+  background: url(/img/elements/primary-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -5913,7 +5913,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 835, E:/167 Bizcon Business/Bizcon_html/sass/_elements.scss */
 .confirm-checkbox input:checked + label {
-  background: url(../img/elements/success-check.png) no-repeat center center/cover;
+  background: url(/img/elements/success-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -5961,7 +5961,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 876, E:/167 Bizcon Business/Bizcon_html/sass/_elements.scss */
 .disabled-checkbox input:checked + label {
-  background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
+  background: url(/img/elements/disabled-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -6003,7 +6003,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 913, E:/167 Bizcon Business/Bizcon_html/sass/_elements.scss */
 .primary-radio input:checked + label {
-  background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
+  background: url(/img/elements/primary-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -6045,7 +6045,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 950, E:/167 Bizcon Business/Bizcon_html/sass/_elements.scss */
 .confirm-radio input:checked + label {
-  background: url(../img/elements/success-radio.png) no-repeat center center/cover;
+  background: url(/img/elements/success-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -6093,7 +6093,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 991, E:/167 Bizcon Business/Bizcon_html/sass/_elements.scss */
 .disabled-radio input:checked + label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
+  background: url(/img/elements/disabled-radio.png) no-repeat center center/cover;
   border: none;
 }
 
