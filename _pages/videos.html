@@ -11,7 +11,7 @@ image: /img/about_img_1-new.png
     <div class="dec py-5 mb-3">
     <div class="container">        
         <h2 class="text-center text-light">Community Service</h2>
-        <div class="row py-5">
+        <div class="row py-5 justify-content-center">
             {% for vid in site.data.videos.community %}
                 <div class="col-lg-6">                    
                     <a href="#" data-toggle="modal" data-target="#{{vid.id}}" data-video="{{vid.videolink}}" class="videos-modal"><img src="{{vid.image}}" alt="Rotaract Koramangala Bengaluru Community Services"></a>
