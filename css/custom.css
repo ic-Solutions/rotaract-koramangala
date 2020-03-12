@@ -550,6 +550,18 @@ tr:nth-child(even) {
 .footer-button a{
     color: #fff !important
 }
+.light-background{
+    background: #f3f3f3
+}
+#ueb-1{
+    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+}
+#ueb-2{
+    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+}
+#ueb-3{
+    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
