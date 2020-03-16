@@ -1,3 +1,6 @@
+body {
+    scroll-behavior: smooth;
+}
 .btn_1, .banner_part .banner_text .btn_1 {
     background-image: linear-gradient(131deg, #010101, #9d9d9d, #2a2a2a, #000000);
     box-shadow: 0px 12px 20px 0px rgba(0, 0, 0, 0.15)
@@ -376,6 +379,7 @@ tr:nth-child(even) {
     background: rgba(255,255,255,.7);
     border-radius: 15px;
     padding: 10px;
+    align-items: center
 }
 .footer-area .single-footer-widget p a{
     color: #666666
@@ -549,6 +553,52 @@ tr:nth-child(even) {
 }
 .footer-button a{
     color: #fff !important
+}
+#donate-block .box {
+    border: 1px solid #ccc;
+}
+#donate-block .box h4 {
+    padding: 20px;
+    font-weight: normal;
+    color: #fff
+}
+#donate-block .box .btn {
+    border-radius: 0;
+}
+#donate-block .donate-image {
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#donate-block .light-background{
+    background: #f3f3f3
+}
+.donate-modals .modal-dialog{
+    max-width: 500px
+}
+.donate-modals .modal-title{
+    color: #0e0e0e
+}
+.donate-modals .modal-dialog{
+    color: #0e0e0e
+}
+.menu-btn{
+    background: #28a745;
+    padding: 0.5em;
+    border-radius: 2em;    
+}
+.main_menu .main-menu-item ul .menu-btn a{
+    color: #fff !important
+}
+#ueb-1{
+    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+}
+#ueb-2{
+    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+}
+#ueb-3{
+    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
 }
 @media screen and (max-width: 600px){
 /*
