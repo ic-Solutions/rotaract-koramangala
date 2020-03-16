@@ -1,0 +1,33 @@
+<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+<script>
+$('#rzp-button4').click(function(e){
+   e.preventDefault();
+    
+    
+    if((!$("#f4 input").val()) || (!$("#f4 textarea").val())) {
+	   alert("Please fill all the fields.");
+    } 
+else {
+    var options = {
+    "key": "rzp_live_IbiuqhSlRqpcOH",
+    "amount": "3500000", 
+    "image": "{{site.url}}{{site.baseurl}}/images/rotary-wheel-small.png",
+    "payment_capture": true,
+     "notes": {
+        "name": $('#general-name').val(),
+        "description": $('#general-message').val()
+    },
+    "handler": function (response){
+       window.location = "https://rotaractkoramangala.org/";
+    }
+    }
+};
+   options.payment_capture = 1;
+   options.name = $('#general-name').val();
+   options.amount = $('#general-amount').val() * 100;
+   options.description = $('#general-message').val();
+   var rzp4 = new Razorpay(options);
+   rzp4.open()
+});    
+</script>
