@@ -511,7 +511,8 @@ tr:nth-child(even) {
 }
 .project_details .photo-gallery img{
     height: 300px;
-    object-fit: cover
+    object-fit: cover;
+    width: 100%
 }
 
 .blog-section {
@@ -591,8 +592,14 @@ tr:nth-child(even) {
 .main_menu .main-menu-item ul .menu-btn a{
     color: #fff !important
 }
+.project_details hr{
+    border-top: 1px solid rgba(255,255,255,.5)
+}
 #ueb-1{
-    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+    background: linear-gradient(to top, #1ad9ac 0%, #3ca955 120%)
+}
+#ueb-img-1{
+    background: linear-gradient(to top, #3ca955 0%, #1ad9ac 120%)
 }
 #ueb-2{
     background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
@@ -642,7 +649,7 @@ tr:nth-child(even) {
         display: block;
         margin: 0 auto
     }
-    .footer-area h5,h4,p,ul,.footer-social{
+    .footer-area {
         text-align: center
     }
     .footer-button {
