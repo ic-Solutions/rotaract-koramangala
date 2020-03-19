@@ -595,6 +595,9 @@ tr:nth-child(even) {
 .project_details hr{
     border-top: 1px solid rgba(255,255,255,.5)
 }
+#ueb-1 .btn{
+    border-radius: 5em
+}
 #ueb-1{
     background: linear-gradient(to top, #1ad9ac 0%, #3ca955 120%)
 }
