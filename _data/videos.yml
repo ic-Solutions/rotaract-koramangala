@@ -3,6 +3,11 @@ community:
       image: /img/videos/wins-mhm-program.jpg
       videolink: https://www.youtube.com/embed/OSbpiUcyiUg
       title: WinS and MHM Program
+      
+    - id: cosvideo2
+      image: /img/videos/adhvara-veergati.jpg
+      videolink: https://www.youtube.com/embed/s8YIpDYMLEc
+      title: Adhvara Veergati
   
 profesional:
     - id: pdvideo1
