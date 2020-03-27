@@ -5,16 +5,100 @@ title: Events | Rotaract in Bangalore
 image: /img/share-logo.png
 ---
 
-    <!-- about part start-->
-    <section class="event-page">
-        <div class="container events-border events-back-main mb-3">
-           <h1 class="pb-5"> 2019 - 2020 </h1>
-            {% include events-main.html %}
-        </div>
-    </section>
+<div class="events-slider-section">
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="false">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+        <section class="event-page">
+            <div class="container events-border events-back-main mb-3">
+               <h1 class="pb-5"> 2019 - 2020 </h1>
+                {% include events-2019-2020.html %}
+            </div>
+        </section>
 
+        <!--Stats Counter 2019-20-->
+        <section id="counter-stats" class="wow fadeInRight" data-wow-duration="1.4s">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 stats">
+                        <i class="ti-time" aria-hidden="true"></i>
+                        <div class="counting" data-count="2250">0</div>
+                        <h3>Volunteer hours</h3>
+                    </div>
+                    <div class="col-lg-3 stats">
+                        <i class="ti-user" aria-hidden="true"></i>
+                        <div class="counting" data-count="635">0</div>
+                        <h3>No.of Volunteers</h3>
+                    </div>
+                    <div class="col-lg-3 stats">
+                        <i class="ti-ticket" aria-hidden="true"></i>
+                        <div class="counting" data-count="110000">0</div>
+                        <h3>Cash contribution</h3>
+                    </div>
+                    <div class="col-lg-3 stats">
+                        <i class="ti-gift" aria-hidden="true"></i>
+                        <div class="counting" data-count="70000">0</div>
+                        <h3>In-kind contribution</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div class="carousel-item">
+        <section class="event-page">
+            <div class="container events-border events-back-main mb-3">
+               <h1 class="pb-5"> 2018 - 2019 </h1>
+                {% include events-2018-2019.html %}
+            </div>
+        </section>
+        <!--Stats Counter 2018-19-->
+        <section id="counter-stats" class="wow fadeInRight" data-wow-duration="1.4s">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 stats">
+                        <i class="ti-time" aria-hidden="true"></i>
+                        <div class="counting" data-count="4720">0</div>
+                        <h3>Volunteer hours</h3>
+                    </div>
+                    <div class="col-lg-3 stats">
+                        <i class="ti-user" aria-hidden="true"></i>
+                        <div class="counting" data-count="1344">0</div>
+                        <h3>No.of Volunteers</h3>
+                    </div>
+                    <div class="col-lg-3 stats">
+                        <i class="ti-ticket" aria-hidden="true"></i>
+                        <div class="counting" data-count="76150">0</div>
+                        <h3>Cash contribution</h3>
+                    </div>
+                    <div class="col-lg-3 stats">
+                        <i class="ti-gift" aria-hidden="true"></i>
+                        <div class="counting" data-count="453615">0</div>
+                        <h3>In-kind contribution</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>    
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div> 
+   
+<!--
+<section class="event-page">
+    <div class="container events-border events-back-main mb-3">
+       <h1 class="pb-5"> 2019 - 2020 </h1>
+        {% include events-2019-2020.html %}
+    </div>
+</section>
 
-<!--Stats Counter-->
 <section id="counter-stats" class="wow fadeInRight" data-wow-duration="1.4s">
 	<div class="container">
 		<div class="row">
@@ -40,4 +124,4 @@ image: /img/share-logo.png
 			</div>
 		</div>
 	</div>
-</section>
+</section>-->

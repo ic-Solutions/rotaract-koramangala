@@ -610,6 +610,17 @@ tr:nth-child(even) {
 #ueb-3{
     background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
 }
+/*Events page carousel*/
+.events-slider-section .carousel-control-prev{
+    left: 32%;
+    top: 2.9em;
+    bottom: auto
+}
+.events-slider-section .carousel-control-next{
+    right: 32%;
+    top: 2.9em;
+    bottom: auto
+}
 @media screen and (max-width: 600px){
 /*
     .home_menu{
@@ -657,6 +668,12 @@ tr:nth-child(even) {
     }
     .footer-button {
         text-align: center
+    }
+    .events-slider-section .carousel-control-prev{
+        left: 10%;        
+    }
+    .events-slider-section .carousel-control-next{
+        right: 10%;
     }
 }
 @media screen and (max-width: 400px){
