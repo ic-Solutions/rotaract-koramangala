@@ -11,9 +11,7 @@
 
 <script>
 $('#rzp-button1').click(function(e){
-   e.preventDefault();
-    
-    
+   e.preventDefault();    
     if((!$("#f1 input").val()) || (!$("#f1 textarea").val())) {
 	   alert("Please fill all the fields.");
     } 
@@ -23,8 +21,8 @@ else {
     "image": "https://rotaractkoramangala.org/img/share-logo.png",
     "payment_capture": true,
      "notes": {
-        "name": $('#f1 #general-name').val(),
-        "description": $('#f1 #general-message').val()
+        "name": $('#bleed-green-name').val(),
+        "description": $('#bleed-green-message').val()
     },
     "handler": function (response){
        window.location = "https://rotaractkoramangala.org/thank-you-donation/";
@@ -32,9 +30,9 @@ else {
     }
 };
    options.payment_capture = 1;
-   options.name = $('#f1 #general-name').val();
-   options.amount = $('#f1 #general-amount').val() * 100;
-   options.description = $('#f1 #general-message').val();
+   options.name = $('#bleed-green-name').val();
+   options.amount = $('#bleed-green-amount').val() * 100;
+   options.description = $('#bleed-green-message').val();
    var rzp1 = new Razorpay(options);
    rzp1.open()
 });    
@@ -43,9 +41,7 @@ else {
 
 <script>
 $('#rzp-button2').click(function(e){
-   e.preventDefault();
-    
-    
+   e.preventDefault();    
     if((!$("#f2 input").val()) || (!$("#f2 textarea").val())) {
 	   alert("Please fill all the fields.");
     } 
@@ -55,8 +51,8 @@ else {
     "image": "https://rotaractkoramangala.org/img/share-logo.png",
     "payment_capture": true,
      "notes": {
-        "name": $('#f2 #general-name').val(),
-        "description": $('#f2 #general-message').val()
+        "name": $('#scholarship-name').val(),
+        "description": $('#scholarship-message').val()
     },
     "handler": function (response){
        window.location = "https://rotaractkoramangala.org/thank-you-donation/";
@@ -64,9 +60,9 @@ else {
     }
 };
    options.payment_capture = 1;
-   options.name = $('#f2 #general-name').val();
-   options.amount = $('#f2 #general-amount').val() * 100;
-   options.description = $('#f2 #general-message').val();
+   options.name = $('#scholarship-name').val();
+   options.amount = $('#scholarship-amount').val() * 100;
+   options.description = $('#scholarship-message').val();
    var rzp2 = new Razorpay(options);
    rzp2.open()
 });    
@@ -75,9 +71,7 @@ else {
 
 <script>
 $('#rzp-button3').click(function(e){
-   e.preventDefault();
-    
-    
+   e.preventDefault();    
     if((!$("#f3 input").val()) || (!$("#f3 textarea").val())) {
 	   alert("Please fill all the fields.");
     } 
@@ -87,8 +81,8 @@ else {
     "image": "https://rotaractkoramangala.org/img/share-logo.png",
     "payment_capture": true,
      "notes": {
-        "name": $('#f3 #general-name').val(),
-        "description": $('#f3 #general-message').val()
+        "name": $('#wildlife-name').val(),
+        "description": $('#wildlife-message').val()
     },
     "handler": function (response){
        window.location = "https://rotaractkoramangala.org/thank-you-donation/";
@@ -96,9 +90,9 @@ else {
     }
 };
    options.payment_capture = 1;
-   options.name = $('#f3 #general-name').val();
-   options.amount = $('#f3 #general-amount').val() * 100;
-   options.description = $('#f3 #general-message').val();
+   options.name = $('#wildlife-name').val();
+   options.amount = $('#wildlife-amount').val() * 100;
+   options.description = $('#wildlife-message').val();
    var rzp3 = new Razorpay(options);
    rzp3.open()
 });    
@@ -107,9 +101,7 @@ else {
 
 <script>
 $('#rzp-button4').click(function(e){
-   e.preventDefault();
-    
-    
+   e.preventDefault();    
     if((!$("#f4 input").val()) || (!$("#f4 textarea").val())) {
 	   alert("Please fill all the fields.");
     } 
@@ -119,8 +111,8 @@ else {
     "image": "https://rotaractkoramangala.org/img/share-logo.png",
     "payment_capture": true,
      "notes": {
-        "name": $('#f4 #general-name').val(),
-        "description": $('#f4 #general-message').val()
+        "name": $('#general-name').val(),
+        "description": $('#general-message').val()
     },
     "handler": function (response){
        window.location = "https://rotaractkoramangala.org/thank-you-donation/";
@@ -128,9 +120,9 @@ else {
     }
 };
    options.payment_capture = 1;
-   options.name = $('#f4 #general-name').val();
-   options.amount = $('#f4 #general-amount').val() * 100;
-   options.description = $('#f4 #general-message').val();
+   options.name = $('#general-name').val();
+   options.amount = $('#general-amount').val() * 100;
+   options.description = $('#general-message').val();
    var rzp4 = new Razorpay(options);
    rzp4.open()
 });    
