@@ -670,14 +670,24 @@ tr:nth-child(even) {
         text-align: center
     }
     .events-slider-section .carousel-control-prev{
-        left: 10%;        
+        left: 7%;        
     }
     .events-slider-section .carousel-control-next{
-        right: 10%;
+        right: 7%;
+    }
+    .page-menu .navbar{
+        align-items: start
+    }
+    .events-border{
+        padding: 2em 2em
     }
 }
 @media screen and (max-width: 400px){
     .top-header-bar p{
         font-size: .8em
+    }
+    .top-header-bar .social a{
+        width: 15px;
+        height: 15px
     }
 }
