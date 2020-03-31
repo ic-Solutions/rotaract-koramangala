@@ -684,7 +684,7 @@ tr:nth-child(even) {
 }
 @media screen and (max-width: 400px){
     .top-header-bar p{
-        font-size: .8em
+        font-size: .7em
     }
     .top-header-bar .social a{
         width: 15px;
