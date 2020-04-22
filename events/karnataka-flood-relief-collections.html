@@ -8,7 +8,9 @@ image: /img/share-logo.png
     <!-- project_details part start -->
     <section class="project_details ">
         <div class="container">
-           <a href="/events/"><button class="btn btn_1 mb-2"><i class="ti-back-left"></i> Back to Events Page</button></a>
+            {% for backlink in site.data.events-slide.y1920 %}
+                <a href="{{ backlink.link }}"><button class="btn btn_1 mb-2"><i class="ti-back-left"></i> Back to Events Page</button></a>
+            {% endfor %}
             <div class="row justify-content-center single-event-page aug">
                 <div class="col-lg-12 col-sm-12">
                     <div class="project_details_content pl-4">
