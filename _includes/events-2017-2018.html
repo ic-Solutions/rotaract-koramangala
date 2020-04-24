@@ -75,109 +75,95 @@
         </div>
     </div>
     
-<!--
     <div class="col-md-4 col-lg-4 mb-4">
         <div class="card h-100">
             <div class="card-body dec p-4">
                 <h3>December 2017</h3>
                 <hr>
-                <p><a href="/events/one-wonder-many-wonder/">23rd - One Wonder Many Wonder</a></p>
+                {% for row in site.data.events-all.y1718.december %}
+                {% for eventsData in row[1] %}
+                <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
                 <hr>
-                <p><a href="/events/child-abuse-jagruti/">Know Your BODs</a></p>
-                <hr>
-                <p><a href="/events/being-santa/">23rd - Plastic Free Bangalore</a></p>
-                <hr>                
-                <p><a href="/events/aol-ashram-tour-secret-santa/">25th - Joy of Giving</a></p> 
-                <hr>
+                {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>
--->
     
-<!--
     <div class="col-md-4 col-lg-4 mb-4">
         <div class="card h-100">
             <div class="card-body jan p-4">
                 <h3>January 2018</h3>
                 <hr>
-                <p><a href="/events/national-youth-day/">12th - National Youth Day</a></p>
+                {% for row in site.data.events-all.y1718.january %}
+                {% for eventsData in row[1] %}
+                <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
                 <hr>
-                <p><a href="/events/letter-to-our-soldiers-v2-0/">20th - Letter to Our Soldiers v2.0</a></p>
-                <hr>
-                <p><a href="/events/step-out-live-it-v2-0/">20th - Step Out. Live It. v2.0</a></p>
-                <hr>                
-                <p><a href="/events/visit-to-gfct-orphanage/">27th - Visit to GFCT Orphanage</a></p> 
-                <hr>
+                {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>
--->
     
-<!--
     <div class="col-md-4 col-lg-4 mb-4">
         <div class="card h-100">
             <div class="card-body feb p-4">
                 <h3>February 2018</h3>
                 <hr>
-                <p><a href="/events/wetlands-awareness-5k-walkathon/">03rd - Wetlands Awareness 5k Walkathon</a></p>
+                {% for row in site.data.events-all.y1718.february %}
+                {% for eventsData in row[1] %}
+                <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
                 <hr>
-                <p><a href="/events/reminiscense-v1.6/">17th - Reminiscense v1.6</a></p>
-                <hr>
-                <p><a href="/events/feb-letter-head-exchange-meet/">21-23 - Letter Head Exchange Meet</a></p>
-                <hr>                
-                <p><a href="/events/hosting-rotasia-sl-team-pdrr/">25th - Hosting Rotasia SL team & PDRR</a></p> 
-                <hr>
+                {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>
--->
     
-<!--
     <div class="col-md-4 col-lg-4 mb-4">
         <div class="card h-100">
             <div class="card-body mar p-4">
                 <h3>March 2018</h3>
                 <hr>
-                <p><a href="/events/wild-blues-world-wildlife-day/">03rd - Wild Blues - World Wildlife Day</a></p>
+                {% for row in site.data.events-all.y1718.march %}
+                {% for eventsData in row[1] %}           
+                <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p> 
                 <hr>
-                <p><a href="/events/national-polio-immunization-day/">10th - National Polio Immunization Day</a></p>
-                <hr>
-                <p><a href="/events/world-rotaract-week-celebrations/">16th - World Rotaract Week Celebrations</a></p>
-                <hr>                
-                <p><a href="/events/visit-to-doddaballapur-school/">30th - Visit to Doddaballapur School</a></p> 
-                <hr>
+                {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>
--->
     
-<!--
     <div class="col-md-4 col-lg-4 mb-4">
         <div class="card h-100">
             <div class="card-body apr p-4">
                 <h3>April 2018</h3>
                 <hr>
-                <p><a href="/events/visit-to-pyramid-valley/">07th - Visit to Pyramid valley</a></p>
+                {% for row in site.data.events-all.y1718.april %}
+                {% for eventsData in row[1] %} 
+                <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
                 <hr>
-                <p><a href="/events/election-awareness-walkathon/">14th - Election Awareness Walkathon</a></p>
-                <hr>
+                {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>
--->
     
-<!--
     <div class="col-md-4 col-lg-4 mb-4">
         <div class="card h-100">
             <div class="card-body may p-4">
                 <h3>May 2018</h3>
                 <hr>
-                <p><a href="/events/rewind-dov-drr-official-visit/">12th - Rewind – DOV (DRR’s Official Visit)</a></p>
+                {% for row in site.data.events-all.y1718.may %}
+                {% for eventsData in row[1] %} 
+                <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
                 <hr>
+                {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>
--->
     
 <!--
     <div class="col-md-4 col-lg-4 mb-4">
