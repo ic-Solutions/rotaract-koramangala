@@ -85,8 +85,8 @@ y1415:
       
 y1516:
     july:
-        3r:
-            - eventLink: 3r
+        rrr:
+            - eventLink: rrr
               eventName: 3R
               eventDate: 10th July 2015
               eventDateName: 10th - 3R
@@ -102,7 +102,7 @@ y1516:
                 - A Brochure was prepared by Rtr Gopala Krishna which was planned to be released on the Installation. This was the first step taken towards awareness about waste management.
 
               eventGallery:
-                - /img/events/2015-2016/3r/001.jpg
+                - /img/events/2015-2016/rrr/001.jpg
 
         club-installation-2015:
             - eventLink: club-installation-2015
@@ -187,31 +187,355 @@ y1516:
     
     september:
         teachers-day-celebration-2015:
+            - eventLink: teachers-day-celebration-2015
+              eventName: Teachers Day Celebration
+              eventDate: 5th September 2015
+              eventDateName: 5th - Teachers Day Celebration
+              eventTime: NA
+              eventVenue: Bengaluru
+              eventAttendees: 10
+              aim: To Help Kids in learning
+              eventDetails:
+                - It all started from the Teachers Day celebration at Govt. Higher Primary School. JP Nagar. We had promised them that we will help them out in possible ways and we had kept our word. They had asked us for people who can come and take class for kids as the teacher, student and No. of classes ratio was very inappropriate.
+                
+                - From 5th of Sept till the end of September month, Rtr. Sharanya had been taking English classes for 8th standard, A Friend and a supporter of rotaract and community service Mr. R Pradeep and M.Yashwanth had taken English and maths classes for 7th and 6th class respectively.
+                
+                - As October is exam time, the teaching has been with hold for the coming month. Hope to continue this project soon after the exam season. Heartfelt thanks to the school headmistress who was supportive all the time.
+                
+                - On the Occasion of Teachers day, We visited another school Govt. Higher Primary School, JP Nagar to felicitate the teachers for their continues efforts in the field of education. Teachers and the Head Mistress welcomed us whole heartedly and was happy to be recognised. We felicitated the headmistress, Anajna Kumari for her 35 years of service, Shaina Kumari, Manjula and chandrakala for their dedication to school and the children.
+                
+                - We also distributed chocolates for the kids and gave away books for toppers in each class. Which was followed by a speech from our club member who spoke of how can Dr. S RadhaKrishna can be a role model to us. The Teachers of the school spoke which was inspiring and aimed at motivating kids to study and reach their goals. Then had a discussion on how we can help them out in terms of education for which we got a very good response. We, RCK promised them whatever help we can do from us will be done and we departed.
+                
+                - On the same day we organized a   joint International Project with RAC Sunrise RID 3150 & RC Banashankari RID 3190. The Project aimed at Felicitating teachers who go out of their way in making sure children get the best. We celebrated Teachers day at Samarthana School for the Disabled. The children, inspite of being disabled, showed us that they are no less and that anything is possible, all thanks to P.V. Srinivas Reddy, Sreenivasalu and Geetha K where each of them have had more than 13 years of experience with teaching and helping with the disabled. 
+                
+                - It is always heart-warming & fun and the special moments shared with these children will remain with us forever. As a contribution from us, Chocolates and notebooks were distributed to the school. Also helping them in whatever way we can truly made our day. A Big Thank You to all these teachers who truly inspire us to be so much more and to be the change in the society. Also thanks to all the amazing RCK members who volunteered and made this day FUNtastic! We also thank Rotaract Club of Banashankari for taking part in Samarthana as a joint project with us & Rotaract Club Of Bishop Cotton Women Christian College for coming and supporting us and Rotaract Club of Sunrise from RID 3150.
+
+              eventGallery:
+                - /img/events/2015-2016/teachers-day-celebration-2015/001.jpg
+                
+                - /img/events/2015-2016/teachers-day-celebration-2015/002.jpg
+                
+                - /img/events/2015-2016/teachers-day-celebration-2015/003.jpg
+        
         club-outing-sept-2015:
+            - eventLink: club-outing-sept-2015
+              eventName: Club Outing
+              eventDate: 13th September 2015
+              eventDateName: 13th - Club Outing
+              eventTime: NA
+              eventVenue: Savanadurga Hill
+              eventAttendees: 10
+              aim: Trekking
+              eventDetails:
+                - Trekking is always mind refreshing and enjoyable and hence we at RCK went on a trekking on 13th  September early morning with our bikes to savandurga hill. The Ride to savandurga was enjoyable. After the long and tiring trek, once on the top of the hill we did  feel a sense of achievement. To add to it the nature beauty, it just can not be put in words. Over all we had a  great time connecting to nature, to people and away from all tension. In short we had loads of fun.
+
+              eventGallery:
+                - /img/events/2015-2016/club-outing-sept-2015/001.jpg
+                
+                - /img/events/2015-2016/club-outing-sept-2015/002.jpg
+                
+                - /img/events/2015-2016/club-outing-sept-2015/003.jpg
+        
         bday-celebration-sept-2015:
+            - eventLink: bday-celebration-sept-2015
+              eventName: Bday Celebration
+              eventDate: 20th September 2015
+              eventDateName: 20th - Bday Celebration
+              eventTime: NA
+              eventVenue: Bengaluru
+              eventAttendees: 17
+              aim: Bday Celebration
+              eventDetails:
+                - Birthdays are special and we celebrated the birthday of our members who had born in the month of  September On 20th Sept. Rtr.Bharath, Rtr. Harshitha, Rtr. ThejasKapse were happy to cut the cake and enjoy with  others members from our club. Celebrating birthdays did bring members close and members got to know each  other better.
+
+              eventGallery:
+                - /img/events/2015-2016/bday-celebration-sept-2015/001.jpg
+                
+                - /img/events/2015-2016/bday-celebration-sept-2015/002.jpg
+                        
         idye-hosting-2015:
+            - eventLink: idye-hosting-2015
+              eventName: IDYE Hosting
+              eventDate: 25th September 2015
+              eventDateName: 25th - IDYE Hosting
+              eventTime: NA
+              eventVenue: Cubbon Park
+              eventAttendees: 10
+              aim: 
+              eventDetails:
+                - On 25th of September, We had the opportunity to host the IDYE team from Mumbai. We started from Cubbon Park, one of the highlight of Bangalore, wherein we showed them around the Cubbon Park and explained its importance. We also interacted with themaboutrotaract in their clubs, how they joined rotaract etc. We also hosted them with a free handwriting analysis session after which we played few games and got o know them better. Over all the whole day was superb and are gonna be cherished by each of us who attended it. IDYE hosting came to an end with a photo session of selfies.
+
+              eventGallery:
+                - /img/events/2015-2016/idye-hosting-2015/001.jpg
+                
+                - /img/events/2015-2016/idye-hosting-2015/002.jpg
     
     october:
-        traffic-awareness-programme-oct-2015:        
-        
+        traffic-awareness-programme-oct-2015:
+            - eventLink: traffic-awareness-programme-oct-2015
+              eventName: Traffic Awareness Programme
+              eventDate: 31st October 2015
+              eventDateName: 31st - Traffic Awareness Programme
+              eventTime: NA
+              eventVenue: Bengaluru
+              eventAttendees: 6
+              aim: 
+              eventDetails:
+                - Traffic Jams, Vehicles on footpath, Accidents, No more safety on road?? Well, here is an initiative for these problems !
+                
+                - On 31 of October, Few of our members whole heartedly took responsibility to organise for the traffic awareness program to be conducted on the very next day i.e. Nov1st. The Aim of this project was to bring in awareness among people about the traffic rules.
+                
+                - Everything from getting in touch with the traffic police of jayanagar to support the movement to getting all the banners and tags printed was well taken care of. A whole hearted thanks to traffic police of jayanagar who supported the entire time to make the event successful.
+
+              eventGallery:
+                - /img/events/2015-2016/traffic-awareness-programme-oct-2015/001.jpg
+                        
     november:
         traffic-awareness-programme-nov-2015:
+            - eventLink: traffic-awareness-programme-nov-2015
+              eventName: Traffic Awareness Programme
+              eventDate: 1st November 2015
+              eventDateName: 1st - Traffic Awareness Programme
+              eventTime: NA
+              eventVenue: Bengaluru
+              eventAttendees: 12
+              aim: 
+              eventDetails:
+                - Every day!! No matter to where you are travelling to in Bangalore. You just can’t avoid traffic. It’s like traffic is an integral part of Bangalore.
+                
+                - With this in mind, we at RCK thought may be at least if we follow traffic rules meant for Vehicles and pedestrians the traffic can be controlled. With a plan to bring in more traffic discipline among public we organised a traffic awareness campaign along with adugodi traffic police from 5pm to 7 pm. A heartfelt thank you to Adugodi traffic police for their support has to be mentioned.
+                
+                - When Rtr.Ravi and Rtr.Harish approached and proposed the project idea to Jayanagar Traffic police, the response we received back was huge. Such Support when we want to do a project only inspires us more and we got all materials ready for the big day. With a fear of how public will respond we moved on roads with banners and masks. It took only few seconds for us to get comfortable. The support of traffic police gave us a feeling of power, power to make things right.
+                
+                - Signal goes red and we hurry to the centre of road with banners stopping people from skipping the signal, asking people to move back from the zebra cross, telling people to wear helmets for their safety.
+                
+                - Altogether it was a great day. Thank you to Jayanagar Traffic police and to rotaractors from Jain College who joined us for the project. At the same time it was a pleasant surprise when Rotaractors from RCK who had went to Mysore the same day to attend a district programme joined us. After a tiring work out of around 2 and half hour we went back home after a small chat thanking all for the support and with pictures that showed the happiness each of us felt. Our Project was also posted on Bengaluru Traffic Police Facebook page. Along with that because of our interest and a good interaction with Jayanagar traffic police, we were invited to co-host one of their events in the coming days.
+
+              eventGallery:
+                - /img/events/2015-2016/traffic-awareness-programme-nov-2015/001.jpg
+                
+                - /img/events/2015-2016/traffic-awareness-programme-nov-2015/002.jpg
+                
+                - /img/events/2015-2016/traffic-awareness-programme-nov-2015/003.jpg
+        
         children-day-celebration-2015:
+            - eventLink: children-day-celebration-2015
+              eventName: Children’s Day Celebration
+              eventDate: 14th November 2015
+              eventDateName: 14th - Children’s Day Celebration
+              eventTime: NA
+              eventVenue: Bengaluru
+              eventAttendees: NA
+              aim: 
+              eventDetails:
+                - On the same day of 14th Nov 2015, after finishing the cycle rally we headed to Government school of jayanagar to celebrate the children’s day in remembrance of our first PM Jawaharlal Nehru. We celebrated by cutting cake and distributing chocolates to kids and teachers gathered in the school.
+
+              eventGallery:
+                - /img/events/2015-2016/children-day-celebration-2015/001.jpg
+                
+                - /img/events/2015-2016/children-day-celebration-2015/002.jpg
+                        
         transform-nov-2015:
+            - eventLink: transform-nov-2015
+              eventName: TRANSFORM
+              eventDate: 29th November 2015
+              eventDateName: 29th - TRANSFORM
+              eventTime: NA
+              eventVenue: Bengaluru
+              eventAttendees: NA
+              aim: 
+              eventDetails:
+                - TRANSFORM – The flagship project of RCK lead by Rtr Rachal and Rtr Sunil was conducted on 29th Nov 2015. It is a workshop where in one can understand oneself better and also understand others through the psychological based actions each one of us exhibit. Also one can get to know other by analysing the handwriting.
+                
+                - This project along with Rotaract club of surana was a wonderful success with over 70 people taking part in it. Along with the theory sessions, fun activities were also a part of the workshop. By the time we parted each of us knew others better or at least had a better idea of how to understand others. We also thank Rotaract club of surana college for their immense support.
+
+              eventGallery:
+                - /img/events/2015-2016/transform-nov-2015/001.jpg
+                
+                - /img/events/2015-2016/transform-nov-2015/002.jpg
     
     december:
         transform-dec-2015:
+            - eventLink: transform-dec-2015
+              eventName: TRANSFORM
+              eventDate: 9th December 2015
+              eventDateName: 9th - TRANSFORM
+              eventTime: NA
+              eventVenue: Bengaluru
+              eventAttendees: 106
+              aim: 
+              eventDetails:
+                - Our signature service, Transform was conducted at the MCC college on 9th December 2015.
+                
+                - We had 100 students from various streams participating in this workshop. We dealt with topics of NLP and its application. The students also went through an experience of team building activities, active listening etc.
+                
+                - We also want to thank Rotaract club of Mount Carmel College and Rtr Anjali Jain, Club President 15-16, Faculty and management of MCC for having this workshop for their students. We are sure the students learnt a lot and took back a lot from the workshop.
+
+              eventGallery:
+                - /img/events/2015-2016/transform-dec-2015/001.jpg
+                        
         club-outing-dec-2015:
+            - eventLink: club-outing-dec-2015
+              eventName: Club Outing
+              eventDate: 13th December 2015
+              eventDateName: 13th - Club Outing
+              eventTime: NA
+              eventVenue: NA
+              eventAttendees: 15
+              aim: 
+              eventDetails:
+                - The discussion for going for a club trip had been going on and finally the day had arrived.  December 13th 2015 – The day started with alarms n calls in the early morning and by 5 AM though  with sleepy eyes, we all were ready for a fun filled day ahead.
+                
+                - We had breakfast out of town and with games for entertainment, the energy was high. We reached  the famous TALAKADU at 10 AM. The Ancient and architecturally sound temples in the sand desert  took was to a different world.
+                
+                - The waters were waiting and we all were eager to jump in. Hence we finished our lunch together  and headed to the magnanimous and breathe taking GAGANA GHUKKI FALLS. No matter how tired  one feels the water always seems refreshing and even after a long walk of 5 kms, the happiness and  the energy to enjoy more was wonderful. We played in water without the realisation that it had  already been 4 hours since we got into water. 
+                
+                - It was a great time of enjoyment and also to understand each other better. We also had a great time  knowing our Guest Rotaractors Rtr Swapnil and Rtr Sayontanee from Mumbai and Kolkata
+
+              eventGallery:
+                - /img/events/2015-2016/club-outing-dec-2015/001.jpg
+                
+                - /img/events/2015-2016/club-outing-dec-2015/002.jpg
+                
+                - /img/events/2015-2016/club-outing-dec-2015/003.jpg
+                
+                - /img/events/2015-2016/club-outing-dec-2015/004.jpg
+        
         atm-happiness:
-            
+            - eventLink: atm-happiness
+              eventName: ATM HAPPINESS
+              eventDate: 20th December 2015
+              eventDateName: 20th - ATM HAPPINESS
+              eventTime: NA
+              eventVenue: NA
+              eventAttendees: 12
+              aim: 
+              eventDetails:
+                - Soon After finishing the traffic awareness campaign we went on to celebrate ATM Happiness.
+                
+                - ATM Happiness? One must be wondering what this is. Well, it was programme organised to thank the security guards of the ATM in the city for their unending patience to sit and guard the ATM and kill time in silence. 
+                
+                - We thanked 34 ATM security guards for their amazing work. We had conversations with them, made them feel happy, and gave away edibles as a token of gratitude. 
+                
+                - Overall it was a great feeling to look at things from a different aspect. Carrying home the picture of smiling faces we all went our ways thinking what other things can be done.
+
+
+              eventGallery:
+                - /img/events/2015-2016/atm-happiness/001.jpg
+                
+                - /img/events/2015-2016/atm-happiness/002.jpg
+                
+                - /img/events/2015-2016/atm-happiness/003.jpg
+                            
     january:
         new-year-celebration-2016:
+            - eventLink: new-year-celebration-2016
+              eventName: NEW YEAR CELEBRATION 
+              eventDate: 1st January 2016
+              eventDateName: 1st - NEW YEAR CELEBRATION
+              eventTime: NA
+              eventVenue: NA
+              eventAttendees: 10
+              aim: 
+              eventDetails:
+                - Bye to a year full of joy, adventures, unbound happiness. Bye 2015.
+                
+                - Welcoming the New Year 2016 with a new spark, around 10 Rotaractors from our club went on a  trek trip to a little distant place called Yelagiri. The trip started at 12:00 am on January 1st 2016, we  celebrated new year at about 1:00 am with all staff at a petrol pump on the way by cutting a cake  (they welcomed us open heartedly and were surprised by our gesture).After a journey of 6 hours  (with a lot of tea breaks!!!) we reached this scenic and amazing place.
+                
+                - We learnt the trek would take 3 hrs one side from people around. It seemed they were bragging!!  After a while we realized this is going to be a long one, when we felt a bit tired. Nature dazzled us  with something to rejuvenate us. Every pause was motivating us to make it to the top wondering if  this very place is amazing how the top would be!!!
+                
+                - The view, the breeze, the chill, the mist and fog at the top made us forget all the strain and pain we  took to reach the summit. After spending 2 hours at the top we came down the series of hills for  another 2 hours.
+                
+                - Well we felt ecstatic about the trek. This one for sure is going to be in our memories for a very long  time to come.
+
+              eventGallery:
+                - /img/events/2015-2016/new-year-celebration-2016/001.jpg
+                
+                - /img/events/2015-2016/new-year-celebration-2016/002.jpg
+                
+                - /img/events/2015-2016/new-year-celebration-2016/003.jpg
+        
         nid-polio-immunisation-jan-2016:
+            - eventLink: nid-polio-immunisation-jan-2016
+              eventName: NID POLIO IMMUNISATION
+              eventDate: 17th January 2016
+              eventDateName: 17th - NID POLIO IMMUNISATION
+              eventTime: NA
+              eventVenue: NA
+              eventAttendees: 13
+              aim: 
+              eventDetails:
+                - Rotaractors of RCK actively participated in National Polio Immunisation Drive on 17th January 2016.
+                
+                - We started from Prestige Acropolis, All apartments in the vicinity, Forum mall, then to Star Bazaar, to police quarters and finally to Rajendra Nagar and Ejipura Slums.
+
+                
+                - We started at 8am from PHC Adugodi. Till 11 am we could immunise only 12 children, later we picked up speed. We gradually moved towards the Slums and found more children who had not got immunised.
+                
+                - We winded up at 5:30pm, having used up more than 15 vials and Immunising 186 children, we all left with a feeling of satisfaction and achievement.
+
+              eventGallery:
+                - /img/events/2015-2016/nid-polio-immunisation-jan-2016/001.jpg
+                
+                - /img/events/2015-2016/nid-polio-immunisation-jan-2016/002.jpg
+                
+                - /img/events/2015-2016/nid-polio-immunisation-jan-2016/003.jpg
+        
         rotavoice:
+            - eventLink: rotavoice
+              eventName: Rotavoice
+              eventDate: 31st January 2016
+              eventDateName: 31st - Rotavoice
+              eventTime: NA
+              eventVenue: NA
+              eventAttendees: NA
+              aim: To Encourage Poetry writing
+              eventDetails:
+                - The poster for rotavoice event was released on 30th Oct 2015 which is a joint project with RVCE. The aim of the project is to encourage poetry writing in this era where reading and writing among young generation has become rare.
+                
+                - The last day for the poetry submission is on 28th November and we along with RVCE are excited and look forwarded for the poems to be received.
+                
+                - Jan 31st - The Poetry competition ROTAVOICE which is a Joint project with RC RVCE was concluded. We have received poems in both English and Kannada on the given topic from various people. Our judges will be announcing the winners shortly.
+
+              eventGallery:
+                - /img/events/2015-2016/rotavoice/001.jpg
     
     february:
         reminiscence-valentine-day-2016:
+            - eventLink: reminiscence-valentine-day-2016
+              eventName: REMINISCENCE Valentines’ Day 
+              eventDate: 12th February 2016
+              eventDateName: 12th - REMINISCENCE Valentines’ Day 
+              eventTime: NA
+              eventVenue: NA
+              eventAttendees: 55
+              aim: 
+              eventDetails:
+                - On the 12th of February 2016, Sunday, Members from our club organised a funfilled event marking the highly expected Valentines’ day celebration with our parent Rotary club members at Nizams Paradise, HSR layout.  It has become a tradition in our club to celebrate Valentines’ in Rotaractors’ style with Rotary.
+                
+                - We had met on 7th February for planning the whole event out. We had our Rotarians participate in highly  fun filled games which included guess the love letter, paper roll dance, balloon dance, questionnaire etc. The  Rotarians thoroughly enjoyed the evening. We were highly appreciated for the team effort we had put in. The  evening ended with a sumptuous dinner with Rotarians. We had a gala time the whole evening. We also took the  rapport with our Rotarians to an all new level.
+
+              eventGallery:
+                - /img/events/2015-2016/reminiscence-valentine-day-2016/001.jpg
+                
+                - /img/events/2015-2016/reminiscence-valentine-day-2016/002.jpg
+                
+                - /img/events/2015-2016/reminiscence-valentine-day-2016/003.jpg
+        
         nid-polio-immunisation-feb-2016:
+            - eventLink: nid-polio-immunisation-feb-2016
+              eventName: NID Polio immunization drive
+              eventDate: 21st February 2016
+              eventDateName: 21st - NID Polio immunization drive
+              eventTime: NA
+              eventVenue: NA
+              eventAttendees: 14
+              aim: 
+              eventDetails:
+                - On the 21st of February 2016, we participated in the Polio National Immunisation Drive. We started the day early at 8am. We started immunising children around slums in and around Koramangala. We aslo had breakfast with our Rotarians. We immunised a total of 86 children from polio by the end of the day. And we had a fellowship post immunisation drive.
+
+              eventGallery:
+                - /img/events/2015-2016/nid-polio-immunisation-feb-2016/001.jpg
             
     march:
         project-happy-feet:
