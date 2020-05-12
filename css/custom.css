@@ -681,6 +681,15 @@ tr:nth-child(even) {
     .events-border{
         padding: 2em 2em
     }
+    
+    .top-header-bar .social a{
+        width: 15px;
+        height: 15px;
+        line-height: 15px;
+    }
+    .top-header-bar p{
+        font-size: .8em
+    }
 }
 @media screen and (max-width: 400px){
     .top-header-bar p{
