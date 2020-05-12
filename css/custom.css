@@ -487,6 +487,8 @@ tr:nth-child(even) {
 }
 .fourway .waybox img{
     border-radius: 5px 5px 0 0;
+    display: block;
+    margin: 0 auto;
 }
 .fourway .waybox h5{
     background: #ffc107;
