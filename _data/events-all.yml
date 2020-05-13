@@ -721,7 +721,7 @@ y1415:
     
     february:
         reminiscence-2015:
-            - eventLink: reminiscence-2015
+            - eventLink: reminiscence-2014-2015
               eventName: REMINISCENCE 2015
               eventDate: 13th February 2015
               eventDateName: 13th - REMINISCENCE 2015
@@ -1261,7 +1261,7 @@ y1516:
     
     february:
         reminiscence-valentine-day-2016:
-            - eventLink: reminiscence-valentine-day-2016
+            - eventLink: reminiscence-2015-2016
               eventName: REMINISCENCE Valentines’ Day 
               eventDate: 12th February 2016
               eventDateName: 12th - REMINISCENCE Valentines’ Day 
@@ -1878,7 +1878,7 @@ y1617:
     
     february:
         reminiscence-2017:
-            - eventLink: reminiscence-2017
+            - eventLink: reminiscence-2016-2017
               eventName: REMINISCENCE 2017
               eventDate: 18th February 2017
               eventDateName: 18th - REMINISCENCE 2017
@@ -2344,7 +2344,7 @@ y1718:
                 - /img/events/2017-2018/sangam-rotafest/006.jpg
                                 
         reminiscence-v4-0:
-            - eventLink: reminiscence-v4-0
+            - eventLink: reminiscence-2017-2018
               eventName: Reminiscence v4.0
               eventDate: 17th February 2018
               eventDateName: 17th - Reminiscence v4.0

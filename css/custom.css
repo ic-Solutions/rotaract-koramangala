@@ -692,6 +692,10 @@ tr:nth-child(even) {
     .top-header-bar p{
         font-size: .8em
     }
+    .linking-events .btn{
+        display: block;
+        margin: 0 auto;
+    }
 }
 @media screen and (max-width: 400px){
     .top-header-bar p{
