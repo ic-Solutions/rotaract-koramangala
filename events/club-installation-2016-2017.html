@@ -1,18 +1,18 @@
 ---
 layout: default
-permalink: /events/club-installation-2013/
-title: Club Installation | Rotaract Koramangala
+permalink: /events/club-installation-2016-2017/
+title: Mission - Teach Flag off & Club Installation | Rotaract Koramangala
 image: /img/share-logo.png
 ---
 
-   {% for eventsData in site.data.events-all.y1314.december.club-installation-2013 %}
+   {% for eventsData in site.data.events-all.y1617.july.mission-teach-flag-off-and-club-installation %}
     <!-- project_details part start -->
     <section class="project_details ">
         <div class="container">            
-            {% for backlink in site.data.events-slide.y1314 %}
+            {% for backlink in site.data.events-slide.y1617 %}
                 <a href="{{ backlink.link }}"><button class="btn btn_1 mb-2"><i class="ti-back-left"></i> Back to Events Page</button></a>
             {% endfor %}
-            <div class="row justify-content-center single-event-page dec">
+            <div class="row justify-content-center single-event-page jul">
                 <div class="col-lg-12 col-sm-12">
                     <div class="project_details_content pl-4">
                         <h3 class="text-center">{{eventsData.eventName}}</h3>
@@ -38,10 +38,21 @@ image: /img/share-logo.png
                                 <p class="text-center">{{eventsData.eventAttendees}}</p>
                             </div>
                         </div>
+                        <h5>Club Attendees:</h5>
+                        <p>{{eventsData.clubAttendees}}</p>
                         <h4>Flow of Activities</h4>
                         {% for text in eventsData.eventDetails %}
                             <p>~ {{text}}</p>
                         {% endfor %}
+                    </div>
+                    <div class="container linking-events">
+                        <p><a href="/events/club-installation-2013-2014/"><button class="btn btn_1 my-3"><strong>Club Installation 2013-2014</strong></button></a></p>
+                        <p><a href="/events/club-installation-2014-2015/"><button class="btn btn_1 my-3"><strong>Club Installation 2014-2015</strong></button></a></p>
+                        <p><a href="/events/club-installation-2015-2016/"><button class="btn btn_1 my-3"><strong>Club Installation 2015-2016</strong></button></a></p>
+<!--                        <p><a href="/events/club-installation-2016-2017/"><button class="btn btn_1 my-3"><strong>Club Installation 2016-2017</strong></button></a></p>-->
+                        <p><a href="/events/club-installation-2017-2018/"><button class="btn btn_1 my-3"><strong>Club Installation 2017-2018</strong></button></a></p>
+                        <p><a href="/events/club-installation-2018-2019/"><button class="btn btn_1 my-3"><strong>Club Installation 2018-2019</strong></button></a></p>
+                        <p><a href="/events/club-installation-2019-2020/"><button class="btn btn_1 my-3"><strong>Club Installation 2019-2020</strong></button></a></p>
                     </div>
                 <div class="photo-gallery">
                     <div class="container">
@@ -70,7 +81,7 @@ image: /img/share-logo.png
                     </div>
                 </div>
             </div>
-            {% include events-2013-2014.html %}
+            {% include events-2016-2017.html %}
         </div>
     </section>
     

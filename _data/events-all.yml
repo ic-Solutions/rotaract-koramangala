@@ -84,7 +84,7 @@ y1314:
                 - /img/events/2013-2014/bon-appetit/002.jpg
         
         club-installation-2013:
-            - eventLink: club-installation-2013
+            - eventLink: club-installation-2013-2014
               eventName: Club Installation
               eventDate: 8th December 2013
               eventDateName: 8th - Club Installation
@@ -353,7 +353,7 @@ y1415:
                 - /img/events/2014-2015/seva-cafe/001.jpg
         
         installation-ceremony-2014:
-            - eventLink: installation-ceremony-2014
+            - eventLink: club-installation-2014-2015
               eventName: Installation Ceremony
               eventDate: 20th July 2014
               eventDateName: 20th - Installation Ceremony
@@ -864,7 +864,7 @@ y1516:
                 - /img/events/2015-2016/rrr/001.jpg
 
         club-installation-2015:
-            - eventLink: club-installation-2015
+            - eventLink: club-installation-2015-2016
               eventName: Club Installation
               eventDate: 26th July 2015
               eventDateName: 26th - Club Installation
@@ -1478,7 +1478,7 @@ y1617:
                 - /img/events/2016-2017/rckite-international/002.jpg
                 
         mission-teach-flag-off-and-club-installation:
-            - eventLink: mission-teach-flag-off-and-club-installation
+            - eventLink: club-installation-2016-2017
               eventName: Mission - Teach Flag off & Club Installation
               eventDate: 17th July 2016
               eventDateName: 17th - Mission - Teach Flag off & Club Installation
