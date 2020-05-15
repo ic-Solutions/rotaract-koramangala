@@ -37,13 +37,13 @@ image: /img/about_img_1-new.png
     <div class="jul py-5">
     <div class="container">        
         <h2 class="text-center text-light">Club Service</h2>
-        <div class="row py-5">
+        <div class="row py-5 justify-content-center">
             {% for vid in site.data.videos.club %}
-                <div class="col-lg-4">                    
+                <div class="col-lg-4 mb-3">                    
                     <a href="#" data-toggle="modal" data-target="#{{vid.id}}" data-video="{{vid.videolink}}" class="videos-modal"><img src="{{vid.image}}" alt="Rotaract Koramangala Bengaluru Club Services"></a>
                     <h4 class="text-center my-2">{{vid.title}}</h4>                    
                 </div>
-            {% endfor %}
+            {% endfor %} 
         </div>        
     </div>
     </div>

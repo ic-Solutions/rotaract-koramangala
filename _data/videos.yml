@@ -35,6 +35,11 @@ club:
       image: /img/videos/what-does-rotaract-mean-to-you.jpg
       videolink: https://www.youtube.com/embed/XTh3trri6KY
       title: What Does Rotaract Mean to You ?
+    
+    - id: clsvideo4
+      image: /img/videos/rotaract-club-of-koramangala-in-the-year-2018-19.jpg
+      videolink: https://www.youtube.com/embed/Ee69ZWRCotc
+      title: Rotaract Club of Koramangala in the year 2018-19
       
 featured:
     - id: cosvideo1
