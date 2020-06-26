@@ -370,7 +370,9 @@ tr:nth-child(even) {
 }
 .project_details .project_details_content ul {
     font-size: 16px;
-    color: #e1e1e1
+    color: #e1e1e1;
+    list-style: square;
+    padding-right: 10px
 }
 .project_details .btn{
     margin-top: 0
@@ -607,7 +609,10 @@ tr:nth-child(even) {
     background: linear-gradient(to top, #3ca955 0%, #1ad9ac 120%)
 }
 #ueb-2{
-    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+    background: linear-gradient(to top, #013e74 0%, #2badeb 120%)
+}
+#ueb-img-2{
+    background: linear-gradient(to top, #2badeb 0%, #013e74 120%)
 }
 #ueb-3{
     background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
