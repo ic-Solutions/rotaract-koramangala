@@ -622,7 +622,10 @@ tr:nth-child(even) {
     background: linear-gradient(to top, #2badeb 0%, #045dab 120%)
 }
 #ueb-3{
-    background: linear-gradient(to top, #a4a6b5 0%, #3d4053 120%)
+    background: linear-gradient(to top, #aa6134 0%, #e98e2b 120%)
+}
+#ueb-img-3{
+    background: linear-gradient(to top, #e98e2b 30%, #aa6134 100%)
 }
 /*Events page carousel*/
 .events-slider-section .carousel-control-prev{
