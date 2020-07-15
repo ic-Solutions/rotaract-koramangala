@@ -519,6 +519,13 @@ tr:nth-child(even) {
     width: 100%
 }
 
+.project_details .gal-height .photo-gallery img{
+    height: auto;
+    object-fit: cover;
+    width: 100%
+}
+
+
 .blog-section {
     background: #f3f3f3
 }
