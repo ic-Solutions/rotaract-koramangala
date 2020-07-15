@@ -358,6 +358,9 @@ tr:nth-child(even) {
 .project_details .project_details_content h3 {
     color: #fff
 }
+.project_details .project_details_content h2{
+    color: #fff
+}
 .project_details .project_details_content p{
     color: #efefef;
     font-size: 17px
