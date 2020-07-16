@@ -555,11 +555,9 @@ tr:nth-child(even) {
 .videos-page h3, .videos-page h4{
     color: #fff
 }
-/*
 .white-text {
     color: #fff
 }
-*/
 .videos-home{
     padding: 6em 0;
     background: linear-gradient(130deg, #00776c, #0184ac)
@@ -643,6 +641,21 @@ tr:nth-child(even) {
     right: 32%;
     top: 2.9em;
     bottom: auto
+}
+.mast-img-dark{
+    background: rgba(0,0,0,0.5);    
+}
+.mast-img{
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin: 10px;
+}
+.mast-img a{
+    color: #fff;
+    background: #28a745;
+    padding: 10px 20px;
+    border-radius: 50px;
 }
 @media screen and (max-width: 600px){
 /*
