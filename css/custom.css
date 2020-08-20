@@ -663,13 +663,17 @@ tr:nth-child(even) {
 }
 .second-nav ul{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .second-nav ul li{
     font-size: 18px;
     font-weight: 500;
     text-transform: uppercase;
-    color: #000;
+    color: #fff;
+    background: #4f4f4f;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 5px;
 }
 :target::before {
     content: "";
