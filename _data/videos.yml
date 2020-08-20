@@ -51,6 +51,16 @@ club:
       videolink: https://www.youtube.com/embed/k6Cxx3rc2W8
       title: Rotaract Club of Koramangala in the year 2019-20
       
+    - id: clsvideo7
+      image: /img/videos/rck-the-face-of-change-2020-21.jpg
+      videolink: https://www.youtube.com/embed/2Z6NggoFaRw
+      title: RCK The Face of Change 2020-21
+      
+    - id: clsvideo8
+      image: /img/videos/rotaract-club-of-koramangala-presents-2020.jpg
+      videolink: https://www.youtube.com/embed/tz-X-N-Ha98
+      title: Rotaract Club of Koramangala Presents ...
+      
 featured:
     - id: cosvideo1
       image: /img/videos/wins-mhm-program.jpg

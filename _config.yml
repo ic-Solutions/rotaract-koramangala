@@ -5,6 +5,9 @@ url: https://rotaractkoramangala.org
 include:
   - _pages
 
+exclude:
+  - node_modules
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
