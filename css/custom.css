@@ -634,13 +634,19 @@ tr:nth-child(even) {
 /*Events page carousel*/
 .events-slider-section .carousel-control-prev{
     left: 32%;
-    top: 2.9em;
-    bottom: auto
+    top: 2.5em;
+    bottom: auto;
+    opacity: 1;
 }
 .events-slider-section .carousel-control-next{
     right: 32%;
-    top: 2.9em;
-    bottom: auto
+    top: 2.5em;
+    bottom: auto;
+    opacity: 1;
+}
+.events-slider-section .carousel-control-next-icon, .carousel-control-prev-icon{
+    width: 30px;
+    height: 30px;
 }
 .mast-img-dark{
     background: rgba(0,0,0,0.5);    
@@ -701,6 +707,7 @@ tr:nth-child(even) {
 #toTop:hover {
   background-color: #555;
 }
+
 @media screen and (max-width: 600px){
 /*
     .home_menu{
