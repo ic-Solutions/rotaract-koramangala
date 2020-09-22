@@ -462,7 +462,8 @@ tr:nth-child(even) {
 }
 .focus-area h4{
     text-align: center;
-    height: 2em
+    height: 2em;
+    color: #d8a200
 }
 .focus-area p{
     color: #e1e1e1;
@@ -476,6 +477,28 @@ tr:nth-child(even) {
 }
 .focus-area .card:hover{
     transform: scale(.95);    
+}
+.focus-area .card p{
+    color: #212121;
+    overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.aof-modals .modal-dialog{
+    max-width: 500px
+}
+.aof-modals .modal-title{
+    color: #0e0e0e
+}
+.aof-modals .modal-dialog{
+    color: #0e0e0e
+}
+.aof-modals .modal-body p{
+    color: #0e0e0e
+}
+.aof-modals .modal-header .close{
+    color: #0e0e0e
 }
 .fourway {
     padding: 6rem 0;
