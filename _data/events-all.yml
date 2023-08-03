@@ -4893,13 +4893,15 @@ y2023:
           -  The event was conducted to teach the girl child on the importance about the Menstrual Hygiene. Also, a Storytelling session was conducted to inspire the children to dream big. 
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/a-drop-of-change/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/a-drop-of-change/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/a-drop-of-change/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/a-drop-of-change/004.jpg
+
+          - /img/events/2022-2023/a-drop-of-change/005.jpg
 
     in-coco's-memory:
       - eventLink: in-coco's-memory
@@ -4914,11 +4916,15 @@ y2023:
           - Coco’s Memory was an initiative by Rtr. Giselle in the memory of her pet Late Coco to donate all the belongings to the Dog Shelter and also, a Visit down to the Dog Shelter along with the fellow Rotaractors.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/in-coco's-memory/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/in-coco's-memory/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/in-coco's-memory/003.jpg
+
+          - /img/events/2022-2023/in-coco's-memory/004.jpg
+
+          - /img/events/2022-2023/in-coco's-memory/005.jpg
 
     gup-chup:
       - eventLink: gup-chup
@@ -4933,13 +4939,15 @@ y2023:
           - The event was an initiative to have some fun time with the orphanage kids with some evening snacks like Pani Puri & Bhel Puri. 
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/gup-chup/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/gup-chup/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/gup-chup/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/gup-chup/004.jpg
+
+          - /img/events/2022-2023/gup-chup/005.jpg
 
   august:
     fear-factor:
@@ -4955,13 +4963,15 @@ y2023:
           -  A project to develop good rapport and bonding between club members by performing a few fun tasks in public. 
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/fear-factor/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/fear-factor/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/fear-factor/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/fear-factor/004.jpg
+
+          - /img/events/2022-2023/fear-factor/005.jpg
 
     project-arivu-1-0:
       - eventLink: project-arivu-1-0
@@ -4976,11 +4986,11 @@ y2023:
           - A project designed to educate members on the 4 main avenues of service of Rotaract - Community Service, Professional Development, Club Service, and International Service.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/project-arivu-1-0/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/project-arivu-1-0/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/project-arivu-1-0/003.jpg
 
     installation-ceremony:
       - eventLink: installation-ceremony
@@ -4995,19 +5005,21 @@ y2023:
           - The President of the Club & all the Office Bearers of the Rotaract Club of Koramangala were installed. Also, the Old and New Members of the Rotaract Club of Koramangala were inducted. 
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/installation-ceremony/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/installation-ceremony/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/installation-ceremony/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/installation-ceremony/004.jpg
 
-    globla-blood-heroes:
-      - eventLink: globla-blood-heroes
-        eventName: Globla Blood Heroes
+          - /img/events/2022-2023/installation-ceremony/005.jpg
+
+    global-blood-heroes:
+      - eventLink: global-blood-heroes
+        eventName: Global Blood Heroes
         eventDate: 27th August 2022
-        eventDateName: 27th - Globla Blood Heroes
+        eventDateName: 27th - Global Blood Heroes
         eventTime: 8 AM
         eventVenue: Kidwai Memorial Hospital
         eventAttendees: 16
@@ -5016,11 +5028,15 @@ y2023:
           - A collaboration with Who is Hussain to break the World Record for the largest number of Blood Donations in one Calendar Day in order to save lives.
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/global-blood-heroes/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/global-blood-heroes/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/global-blood-heroes/003.jpg
+
+          - /img/events/2022-2023/global-blood-heroes/004.jpg
+
+          - /img/events/2022-2023/global-blood-heroes/005.jpg
 
   september:
     club-outing-sep-2022:
@@ -5036,13 +5052,15 @@ y2023:
           -  A project to get acquainted with other members and have fun and adventure on a trek.
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/club-outing-sep-2022/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/club-outing-sep-2022/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/club-outing-sep-2022/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/club-outing-sep-2022/004.jpg
+
+          - /img/events/2022-2023/club-outing-sep-2022/005.jpg
 
     project-arivu-2-0:
       - eventLink: project-arivu-2-0
@@ -5057,11 +5075,11 @@ y2023:
           - A project designed to educate members on the Avenues namely - Public Relations & Membership Extension & Retention. 
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/project-arivu-2-0/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/project-arivu-2-0/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/project-arivu-2-0/003.jpg
 
     suicide-prevention-day:
       - eventLink: suicide-prevention-day
@@ -5076,13 +5094,13 @@ y2023:
           - A project conducted to raise  awareness on issues pertaining to suicide to bring about a change in our society; on the occasion of World Suicide Prevention Day.
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/suicide-prevention-day/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/suicide-prevention-day/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/suicide-prevention-day/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/suicide-prevention-day/004.jpg
 
     tooth-fairies:
       - eventLink: tooth-fairies
@@ -5097,11 +5115,15 @@ y2023:
           - A dental camp aimed to help improve and maintain the oral hygiene of kids at an orphanage. 
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/tooth-fairies/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/tooth-fairies/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/tooth-fairies/003.jpg
+
+          - /img/events/2022-2023/tooth-fairies/004.jpg
+
+          - /img/events/2022-2023/tooth-fairies/005.jpg
 
   october:
     blood-camp:
@@ -5117,13 +5139,15 @@ y2023:
           -   Blood Donation Camp conducted in association with Kestone Global and partnered with Narayana Hrudayalaya Blood Centre.
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/blood-camp/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/blood-camp/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/blood-camp/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/blood-camp/004.jpg
+
+          - /img/events/2022-2023/blood-camp/005.jpg
 
     nostalgia-1-0:
       - eventLink: nostalgia-1-0
@@ -5138,11 +5162,11 @@ y2023:
           - A project conducted in order to reconnect with our club Alumni on the occasion of Rotary Alumni Reconnect Week.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/nostalgia-1-0/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/nostalgia-1-0/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/nostalgia-1-0/003.jpg
 
     wildlife-conservation-workshop:
       - eventLink: wildlife-conservation-workshop
@@ -5157,13 +5181,13 @@ y2023:
           - A project to get acquainted with other members and have fun and adventure on a trek.
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/wildlife-conservation-workshop/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/wildlife-conservation-workshop/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/wildlife-conservation-workshop/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/wildlife-conservation-workshop/004.jpg
 
     polio-awareness-walkathon:
       - eventLink: polio-awareness-walkathon
@@ -5178,11 +5202,19 @@ y2023:
           - An initiative by Rotaract Club of Koramangala in association with District Polio Plus Committee.
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/polio-awareness-walkathon/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/polio-awareness-walkathon/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/polio-awareness-walkathon/003.jpg
+
+          - /img/events/2022-2023/polio-awareness-walkathon/004.jpg
+
+          - /img/events/2022-2023/polio-awareness-walkathon/005.jpg
+
+          - /img/events/2022-2023/polio-awareness-walkathon/006.jpg
+
+          - /img/events/2022-2023/polio-awareness-walkathon/007.jpg
 
   november:
     books-donation-drive-2-0:
@@ -5198,16 +5230,16 @@ y2023:
           -   A project aimed to help students to enrich their knowledge with various categories of books. Also, to teach kids the value of hygiene and to educate them via play. 
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/books-donation-drive-2-0/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/books-donation-drive-2-0/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/books-donation-drive-2-0/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/books-donation-drive-2-0/004.jpg
 
-    international-men's-day-celebration:
-      - eventLink: international-men's-day-celebration
+    international-mens-day-celebration:
+      - eventLink: international-mens-day-celebration
         eventName: International Men's Day Celebration
         eventDate: 20th November 2022
         eventDateName: 20th - International Men's Day Celebration
@@ -5219,11 +5251,13 @@ y2023:
           - Project conducted to celebrate International Men's Day for all the men of our club.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/international-mens-day-celebration/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/international-mens-day-celebration/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/international-mens-day-celebration/003.jpg
+
+          - /img/events/2022-2023/international-mens-day-celebration/004.jpg
 
     charter-day-celebration:
       - eventLink: charter-day-celebration
@@ -5238,13 +5272,11 @@ y2023:
           - A Club Service Event conducted to celebrate the Charter's Day of the Rotaract Club of Koramangala with the Club Members.
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/charter-day-celebration/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/charter-day-celebration/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
-
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/charter-day-celebration/003.jpg
 
     kannada-learning-program-v5-0:
       - eventLink: kannada-learning-program-v5-0
@@ -5259,11 +5291,17 @@ y2023:
           - A project conducted to learn regional language Kannada and help communicate on daily basis. 
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/kannada-learning-program-v5-0/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/kannada-learning-program-v5-0/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/kannada-learning-program-v5-0/003.jpg
+
+          - /img/events/2022-2023/kannada-learning-program-v5-0/004.jpg
+
+          - /img/events/2022-2023/kannada-learning-program-v5-0/005.jpg
+
+          - /img/events/2022-2023/kannada-learning-program-v5-0/006.jpg
 
   december:
     movember:
@@ -5279,13 +5317,11 @@ y2023:
           -   Funds raised by an Initiative called "No Shave November" by sending posters of myths and facts about cancer.
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/movember/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/movember/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
-
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/movember/003.jpg
 
     no-shave-november-2022:
       - eventLink: no-shave-november-2022
@@ -5300,11 +5336,13 @@ y2023:
           - A visit to Shankara Hospital to donate the funds raised from No Shave November as well as to distribute drawing books and colour paints to all pediatric cancer children.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/no-shave-november-2022/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/no-shave-november-2022/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/no-shave-november-2022/003.jpg
+
+          - /img/events/2022-2023/no-shave-november-2022/004.jpg
 
     being-santa-v6-0:
       - eventLink: being-santa-v6-0
@@ -5319,13 +5357,11 @@ y2023:
           - This is a Flagship event where visited a Boy's Home to celebrate Christmas with the Children by playing various Activities and Donation of needy things to the Kids. 
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/being-santa-v6-0/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/being-santa-v6-0/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
-
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/being-santa-v6-0/003.jpg
 
     secret-santa:
       - eventLink: secret-santa
@@ -5340,11 +5376,13 @@ y2023:
           - An initiative where the Club Members got together to gift their Santa and received gifts from their Secret Santa.
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/secret-santa/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/secret-santa/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/secret-santa/003.jpg
+
+          - /img/events/2022-2023/secret-santa/004.jpg
 
   january:
     minute-to-win-it:
@@ -5360,13 +5398,13 @@ y2023:
           -   A fun club service project conducted in order to increase the bonding among members.
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/minute-to-win-it/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/minute-to-win-it/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/minute-to-win-it/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/minute-to-win-it/004.jpg
 
     visit-to-dog-shelter:
       - eventLink: visit-to-dog-shelter
@@ -5381,11 +5419,13 @@ y2023:
           - A visit to the Dog Shelter to spend quality time with the Dogs in the Shelter. Also, to volunteer in cleaning  the Shelter.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/visit-to-dog-shelter/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/visit-to-dog-shelter/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/visit-to-dog-shelter/003.jpg
+
+          - /img/events/2022-2023/visit-to-dog-shelter/004.jpg
 
     republic-day-celebrations:
       - eventLink: republic-day-celebrations
@@ -5400,13 +5440,13 @@ y2023:
           - The event was conducted in the motive to Celebrate Republic Day along with the Disabled Kids. 
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/republic-day-celebrations/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/republic-day-celebrations/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/republic-day-celebrations/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/republic-day-celebrations/004.jpg
 
   february:
     self-defence-workshop:
@@ -5422,13 +5462,11 @@ y2023:
           -   An initiative where the club members could learn a few self-defence techniques.
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/self-defence-workshop/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/self-defence-workshop/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
-
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/self-defence-workshop/003.jpg
 
     rewind-2023-dov:
       - eventLink: rewind-2023-dov
@@ -5443,11 +5481,13 @@ y2023:
           - The District Rotaract Representative of RI District 3190 officially visited the Club for understanding the functioning of the Club.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/rewind-2023-dov/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/rewind-2023-dov/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/rewind-2023-dov/003.jpg
+
+          - /img/events/2022-2023/rewind-2023-dov/004.jpg
 
     reminiscence:
       - eventLink: reminiscence
@@ -5462,13 +5502,13 @@ y2023:
           - Valentine's Day celebration with the Rotarians of the Rotary Club of Bangalore Koramangala and the Rotaractors of Rotaract Club of Koramangala. 
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/reminiscence/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/reminiscence/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/reminiscence/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/reminiscence/004.jpg
 
     canva-workshop:
       - eventLink: canva-workshop
@@ -5483,15 +5523,15 @@ y2023:
           - A workshop curated to teach designing skills to young minds and to motivate people to create posters and videos on Canva.
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/canva-workshop/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/canva-workshop/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/canva-workshop/003.jpg
 
   march:
-    women's-day-celebration:
-      - eventLink: women's-day-celebration
+    womens-day-celebration:
+      - eventLink: womens-day-celebration
         eventName: Women's Day Celebration
         eventDate: 12th March 2023
         eventDateName: 12th - Women's Day Celebration
@@ -5503,13 +5543,13 @@ y2023:
           -   A funday celebrating the Women of our club with some interesting Activities. We had conducted various activities and created a good bond among the Club Members. 
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/womens-day-celebration/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/womens-day-celebration/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/womens-day-celebration/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/womens-day-celebration/004.jpg
 
     presentation-workshop:
       - eventLink: presentation-workshop
@@ -5524,11 +5564,11 @@ y2023:
           - A workshop curated to teach people creating unique presentations on MS PowerPoint.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/presentation-workshop/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/presentation-workshop/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/presentation-workshop/003.jpg
 
     paw-day:
       - eventLink: paw-day
@@ -5543,13 +5583,13 @@ y2023:
           - A fun event organized to spend a Sunday with the puppies and dogs at Cubbon Park.
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/paw-day/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/paw-day/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/paw-day/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/paw-day/004.jpg
 
   april:
     sunday-funday-2023:
@@ -5565,13 +5605,13 @@ y2023:
           -   A project conducted to improve the bonding among members with fun games and activities.
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/sunday-funday-2023/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/sunday-funday-2023/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/sunday-funday-2023/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/sunday-funday-2023/004.jpg
 
     the-eco-crew:
       - eventLink: the-eco-crew
@@ -5586,11 +5626,13 @@ y2023:
           - An informative session which aims to explore sustainability and recycling which reduces the need to grow,harvest or extract new raw materials from the Earth.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/the-eco-crew/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/the-eco-crew/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/the-eco-crew/003.jpg
+
+          - /img/events/2022-2023/the-eco-crew/004.jpg
 
     upl-prime-3-0:
       - eventLink: upl-prime-3-0
@@ -5605,13 +5647,13 @@ y2023:
           - An initiative to raise funds for Community Service by Live Screening of IPL Match of RCB vs CSK Match. 
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/upl-prime-3-0/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/upl-prime-3-0/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/upl-prime-3-0/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/upl-prime-3-0/004.jpg
 
     yoga-session:
       - eventLink: yoga-session
@@ -5626,15 +5668,15 @@ y2023:
           - The yoga pose you avoid the most you need the most.
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/yoga-session/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/yoga-session/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/yoga-session/003.jpg
 
   may:
-    R-I-C-E:
-      - eventLink: R-I-C-E
+    r-i-c-e:
+      - eventLink: r-i-c-e
         eventName: R.I.C.E.
         eventDate: 19th May 2023 to 21st May 2023
         eventDateName: 21st - R.I.C.E.
@@ -5646,13 +5688,19 @@ y2023:
           -   An Inter-Club Youth Exchange conducted between two clubs to build better bonding, fellowship & showing the culture of our State. 
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/r-i-c-e/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/r-i-c-e/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/r-i-c-e/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/r-i-c-e/004.jpg
+
+          - /img/events/2022-2023/r-i-c-e/005.jpg
+
+          - /img/events/2022-2023/r-i-c-e/006.jpg
+
+          - /img/events/2022-2023/r-i-c-e/007.jpg
 
     paw-day-2-0:
       - eventLink: paw-day-2-0
@@ -5667,11 +5715,13 @@ y2023:
           - A project to play with paw-dorable friends and have an amazing start to the day.
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/paw-day-2-0/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/paw-day-2-0/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/paw-day-2-0/003.jpg
+
+          - /img/events/2022-2023/paw-day-2-0/004.jpg
 
     fear-factor-2-0:
       - eventLink: fear-factor-2-0
@@ -5686,13 +5736,15 @@ y2023:
           -  A project to develop good rapport and bonding between club members by performing a few fun tasks in public.
 
         eventGallery:
-          - /img/events/2023-2024/puzzle-pieces/001.jpg
+          - /img/events/2022-2023/fear-factor-2-0/001.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/002.jpg
+          - /img/events/2022-2023/fear-factor-2-0/002.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/003.jpg
+          - /img/events/2022-2023/fear-factor-2-0/003.jpg
 
-          - /img/events/2023-2024/puzzle-pieces/004.jpg
+          - /img/events/2022-2023/fear-factor-2-0/004.jpg
+
+          - /img/events/2022-2023/fear-factor-2-0/005.jpg
 
     lang-buzz-2-0:
       - eventLink: lang-buzz-2-0
@@ -5707,11 +5759,11 @@ y2023:
           - A workshop conducted by Rotaract club of Koramangala RI District 3190 and Rotaract club of Centennial United, RI District 3030 with the interchange of the official languages of the country.
 
         eventGallery:
-          - /img/events/2023-2024/artshala/001.jpg
+          - /img/events/2022-2023/lang-buzz-2-0/001.jpg
 
-          - /img/events/2023-2024/artshala/002.jpg
+          - /img/events/2022-2023/lang-buzz-2-0/002.jpg
 
-          - /img/events/2023-2024/artshala/003.jpg
+          - /img/events/2022-2023/lang-buzz-2-0/003.jpg
 
   june:
     Shikshana-2-0-ver-board-of-directors:
@@ -5727,13 +5779,13 @@ y2023:
           -   Rotaract is an ongoing evolution. It is a better package in terms of leadership, professional development, skills, roles, duties and learnings to the youth for the development of the society.
 
         eventGallery:
-          - /img/events/2023-2024/movie-night/001.jpg
+          - /img/events/2022-2023/Shikshana-2-0-ver-board-of-directors/001.jpg
 
-          - /img/events/2023-2024/movie-night/002.jpg
+          - /img/events/2022-2023/Shikshana-2-0-ver-board-of-directors/002.jpg
 
-          - /img/events/2023-2024/movie-night/003.jpg
+          - /img/events/2022-2023/Shikshana-2-0-ver-board-of-directors/003.jpg
 
-          - /img/events/2023-2024/movie-night/004.jpg
+          - /img/events/2022-2023/Shikshana-2-0-ver-board-of-directors/004.jpg
 
     shikshana-2-0-ver-members:
       - eventLink: shikshana-2-0-ver-members
@@ -5748,11 +5800,13 @@ y2023:
           - To familiarise with the vision and mission of the Rotaract organisation and to enable the members to understand the structure, role of transforming the society and to be aware of being the social responsibility of the youth!
 
         eventGallery:
-          - /img/events/2023-2024/pitch-deck/001.jpg
+          - /img/events/2022-2023/shikshana-2-0-ver-members/001.jpg
 
-          - /img/events/2023-2024/pitch-deck/002.jpg
+          - /img/events/2022-2023/shikshana-2-0-ver-members/002.jpg
 
-          - /img/events/2023-2024/pitch-deck/003.jpg
+          - /img/events/2022-2023/shikshana-2-0-ver-members/003.jpg
+
+          - /img/events/2022-2023/shikshana-2-0-ver-members/004.jpg
 y2024:
   july:
     movie-night:
