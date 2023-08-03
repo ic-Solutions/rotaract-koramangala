@@ -4887,19 +4887,19 @@ y2023:
         eventDateName: 15th - Movie Night
         eventTime: 7 PM
         eventVenue: Google Meet
-        eventAttendees: NA
+        eventAttendees: 3
         eventVolHour: 32.5
         eventDetails:
           - The event begun by introduction of the participants. Later then Rtr.Noor then addressed the gathering. The movie chosen for the day was "Wake Up Sid" timed 2.11hrs. Participants enjoyed the movie night. Rtr.Shahista delivered a vote of thanks at the end.
 
         eventGallery:
-          - /img/events/2023-2024/movie night/001
+          - /img/events/2023-2024/movie-night/001
 
-          - /img/events/2023-2024/movie night/002
+          - /img/events/2023-2024/movie-night/002
 
-          - /img/events/2023-2024/movie night/003
+          - /img/events/2023-2024/movie-night/003
 
-          - /img/events/2023-2024/movie night/004
+          - /img/events/2023-2024/movie-night/004
 
     pitch-deck:
       - eventLink: pitch-deck
@@ -4908,17 +4908,17 @@ y2023:
         eventDateName: 16th - Pitch Deck
         eventTime: 10 AM
         eventVenue: Lalbagh Garden
-        eventAttendees: NA
+        eventAttendees: 15
         eventVolHour: 45
         eventDetails:
           - An orientation program for the prospective members of Rotaract Club of Koramangala. General introduction was done, followed by a brief description of Rotaract. Existing members of the club shared their own experiences to better motivate the newbies.
 
         eventGallery:
-          - /img/events/2023-2024/pitch deck/001
+          - /img/events/2023-2024/pitch-deck/001
 
-          - /img/events/2023-2024/pitch deck/002
+          - /img/events/2023-2024/pitch-deck/002
 
-          - /img/events/2023-2024/pitch deck/003
+          - /img/events/2023-2024/pitch-deck/003
 
     puzzle-pieces:
       - eventLink: puzzle-pieces
@@ -4927,19 +4927,19 @@ y2023:
         eventDateName: 16th - Puzzle Pieces
         eventTime: 10 AM
         eventVenue: Need Base India, Shanti Nagar
-        eventAttendees: NA
+        eventAttendees: 12
         eventVolHour: 30
         eventDetails:
           - This project focused on mental health awareness among young children. The first session focused on building a good rapport with the students so they get more comfortable discussing thier thoughts and feelings with us.
 
         eventGallery:
-          - /img/events/2023-2024/puzzle pieces/001
+          - /img/events/2023-2024/puzzle-pieces/001
 
-          - /img/events/2023-2024/puzzle pieces/002
+          - /img/events/2023-2024/puzzle-pieces/002
 
-          - /img/events/2023-2024/puzzle pieces/003
+          - /img/events/2023-2024/puzzle-pieces/003
 
-          - /img/events/2023-2024/puzzle pieces/004
+          - /img/events/2023-2024/puzzle-pieces/004
 
     artshala:
       - eventLink: artshala
@@ -4948,7 +4948,7 @@ y2023:
         eventDateName: 23rd - Artshala
         eventTime: 10 AM
         eventVenue: Moulana Azad Model School
-        eventAttendees: NA
+        eventAttendees: 8
         eventVolHour: 10
         eventDetails:
           - Artshala was a collaboration project with digital NGO named ConnectFor. The involved the beautification of a School near Minaj Nagar, by painting the walls with calming artworks that would set the mood just right for the students. The theme for the artwork was rightfully chosen as Education.
