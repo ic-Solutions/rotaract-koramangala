@@ -4880,8 +4880,8 @@ y2022:
           - /img/events/2020-2021/au-revoir/005.jpg
 y2023:
   july:
-    movie night:
-      - eventLink: movie night
+    movie-night:
+      - eventLink: movie-night
         eventName: Movie Night
         eventDate: 15th July 2023
         eventDateName: 15th - Movie Night
@@ -4901,8 +4901,8 @@ y2023:
 
           - /img/events/2023-2024/movie night/004
 
-    pitch deck:
-      - eventLink: pitch deck
+    pitch-deck:
+      - eventLink: pitch-deck
         eventName: Pitch Deck
         eventDate: 16th July 2023
         eventDateName: 16th - Pitch Deck
@@ -4920,8 +4920,8 @@ y2023:
 
           - /img/events/2023-2024/pitch deck/003
 
-    puzzle pieces:
-      - eventLink: puzzle pieces
+    puzzle-pieces:
+      - eventLink: puzzle-pieces
         eventName: Puzzle Pieces
         eventDate: 16th July 2023
         eventDateName: 16th - Puzzle Pieces
