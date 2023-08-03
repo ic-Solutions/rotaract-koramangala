@@ -1,0 +1,82 @@
+---
+layout: default
+permalink: /events/presentation-workshop/
+title: Presentation Workshop | Rotaract Koramangala
+image: /img/share-logo.png
+---
+
+   {% for eventsData in site.data.events-all.y2023.march.presentation-workshop %}
+    <!-- project_details part start -->
+    <section class="project_details ">
+        <div class="container">            
+            {% for backlink in site.data.events-slide.y2023 %}
+                <a href="{{ backlink.link }}"><button class="btn btn_1 mb-2"><i class="ti-back-left"></i> Back to Events Page</button></a>
+            {% endfor %}
+            <div class="row justify-content-center single-event-page jul">
+                <div class="col-lg-12 col-sm-12">
+                    <div class="project_details_content pl-4">
+                        <h3 class="text-center">{{eventsData.eventName}}</h3>
+                        <div class="project_details_widget row justify-content-center">
+                            <div class="single_project_details_widget col-lg-2 col-6">
+                                <p class="text-center"><span class="ti-calendar"></span></p>
+                                <h5 class="text-center">Date</h5>
+                                <p class="text-center">{{eventsData.eventDate}}</p>
+                            </div>
+                            <div class="single_project_details_widget col-lg-2 col-6">
+                                <p class="text-center"><span class="ti-time"></span></p>
+                                <h5 class="text-center">Time</h5>
+                                <p class="text-center">{{eventsData.eventTime}}</p>
+                            </div>                            
+                            <div class="single_project_details_widget col-lg-2 col-6">
+                                <p class="text-center"><span class="ti-location-pin"></span></p>
+                                <h5 class="text-center">Venue</h5>
+                                <p class="text-center">{{eventsData.eventVenue}}</p>
+                            </div>
+                            <div class="single_project_details_widget col-lg-2 col-6">
+                                <p class="text-center"><span class="ti-face-smile"></span></p>
+                                <h5 class="text-center">Voluteers</h5>
+                                <p class="text-center">{{eventsData.eventAttendees}}</p>
+                            </div>
+                            <div class="single_project_details_widget col-lg-2 col-6">
+                                <p class="text-center"><span class="ti-face-smile"></span></p>
+                                <h5 class="text-center">Volunteering Hours</h5>
+                                <p class="text-center">{{eventsData.eventVolHour}}</p>
+                            </div>
+                        </div>                        
+                        <h4>Flow of Activities</h4>
+                        {% for text in eventsData.eventDetails %}
+                            <p>{{text}}</p>
+                        {% endfor %}
+                    </div>
+                <div class="photo-gallery">
+                    <div class="container">
+                        <div class="intro">
+                            <h2 class="text-center">Photo Gallery</h2>
+                        </div>
+                        <div class="row photos justify-content-center">
+                            {% for img in eventsData.eventGallery %}
+                                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{img}}" data-lightbox="photos"><img class="img-fluid" src="{{img}}" alt="Rotaract Koramangala Bengaluru {{eventsData.eventName}}"></a></div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- project_details part end -->
+
+    <section class=" section_padding single_padding_top">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-5">
+                    <div class="section_tittle text-center">
+                        <h2>Other Events</h2>                        
+                    </div>
+                </div>
+            </div>
+            {% include events-2020-2021.html %}
+        </div>
+    </section>
+    
+{% endfor %}
