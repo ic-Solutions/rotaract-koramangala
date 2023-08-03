@@ -5023,8 +5023,8 @@ y2023:
           - /img/events/2023-2024/artshala/003.jpg
 
   september:
-    club-outing:
-      - eventLink: club-outing
+    club-outing-sep-2022:
+      - eventLink: club-outing-sep-2022
         eventName: Club Outing
         eventDate: 4th September 2022
         eventDateName: 4th - Club Outing
@@ -5287,8 +5287,8 @@ y2023:
 
           - /img/events/2023-2024/movie-night/004.jpg
 
-    no-shave-november:
-      - eventLink: no-shave-november
+    no-shave-november-2022:
+      - eventLink: no-shave-november-2022
         eventName: No Shave November
         eventDate: 03rd December 2022
         eventDateName: 03rd - No Shave November
@@ -5552,8 +5552,8 @@ y2023:
           - /img/events/2023-2024/puzzle-pieces/004.jpg
 
   april:
-    sunday-funday:
-      - eventLink: sunday-funday
+    sunday-funday-2023:
+      - eventLink: sunday-funday-2023
         eventName: Sunday Funday
         eventDate: 2nd April 2023
         eventDateName: 2nd - Sunday Funday
