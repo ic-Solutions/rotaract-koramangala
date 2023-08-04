@@ -61,6 +61,11 @@ club:
       videolink: https://www.youtube.com/embed/tz-X-N-Ha98
       title: Rotaract Club of Koramangala Presents ...
       
+    - id: clsvideo9
+      image: /img/videos/12th-charter-day.png
+      videolink: https://www.youtube.com/embed/TnZJz5FyL_4
+      title: 12th Charter Day
+      
 featured:
     - id: cosvideo1
       image: /img/videos/wins-mhm-program.jpg
@@ -72,7 +77,7 @@ featured:
       videolink: https://www.youtube.com/embed/u63MS6Wp9Hg
       title: Spoken Kannada Learning Program, a Rotaract Initiative
       
-    - id: clsvideo1
-      image: /img/videos/rotafit.jpg
-      videolink: https://www.youtube.com/embed/yfKaa8wHQj8
-      title: Rotafit
+    - id: clsvideo9
+      image: /img/videos/12th-charter-day.png
+      videolink: https://www.youtube.com/embed/TnZJz5FyL_4
+      title: 12th Charter Day
