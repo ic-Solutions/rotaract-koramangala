@@ -741,7 +741,7 @@ tr:nth-child(even) {
     font-size: 16px;
     border: none;
     outline: none;
-    color: white;
+    color: #000;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -750,11 +750,9 @@ tr:nth-child(even) {
 
 .dropdown-content {
     display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
+    position: fixed;
+    background-color: #BBB4FF;
+    min-width: 20px;
 }
 
 .dropdown-content a {
