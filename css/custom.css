@@ -751,7 +751,7 @@ tr:nth-child(even) {
 .dropdown-content {
     display: none;
     position: fixed;
-    background-color: #BBB4FF;
+    background-color: rgba(255,255,255,.7);
     min-width: 20px;
 }
 
