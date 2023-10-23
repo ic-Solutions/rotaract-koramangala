@@ -861,3 +861,62 @@ tr:nth-child(even) {
         height: 15px
     }
 }
+
+.newsyrtitle{
+    color: #fff;
+    font-size: 54px;
+    letter-spacing: 3px;
+    line-height: 1.5;
+}
+.newsyellowhr{
+    width: 60px; 
+    background-color: #fc0;
+    height: 4px;
+    line-height: 0;
+    margin: 21px auto 0;
+    width: 50px;
+}
+
+/* Style for the secondary menu */
+.secondary-menu {
+    position: fixed;
+    color: #fff;
+    /* Text color */
+    width: 300px;
+    /* Width of the menu */
+    height: 100%;
+    /* Full height */
+    padding: 20px;
+    /* Add some padding */
+}
+
+.secondary-menu ul {
+    list-style: none;
+    padding: 0;
+}
+
+.secondary-menu li {
+    margin: 10px 0;
+}
+
+.secondary-menu a {
+    text-decoration: none;
+    color: #fff;
+}
+.newsbtn{
+    position: sticky;
+    top: 150px;
+    z-index: 9;
+    max-width: 300px;
+    margin: 0;
+    color: #fff;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: 35px;
+}
+
+@media (max-width: 767px) {
+    .hidden-mobile {
+        display: none;
+    }
+}
