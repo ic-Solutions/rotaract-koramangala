@@ -862,14 +862,32 @@ tr:nth-child(even) {
     }
 }
 
-.newsyrtitle{
+
+.news-col{
+    background-color: #000;
+}
+
+.newsyrtitle {
     color: #fff;
     font-size: 54px;
     letter-spacing: 3px;
     line-height: 1.5;
 }
-.newsyellowhr{
-    width: 60px; 
+
+.quat{
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    line-height: 1.5;
+}
+
+.quat-underline{
+    border-bottom: 2px solid #fc0;
+    padding: 0px 0px 0px 0px
+}
+
+.newsyellowhr {
+    width: 60px;
     background-color: #fc0;
     height: 4px;
     line-height: 0;
@@ -877,46 +895,80 @@ tr:nth-child(even) {
     width: 50px;
 }
 
-/* Style for the secondary menu */
-.secondary-menu {
-    position: fixed;
-    color: #fff;
-    /* Text color */
-    width: 300px;
-    /* Width of the menu */
-    height: 100%;
-    /* Full height */
-    padding: 20px;
-    /* Add some padding */
+.pdf-cont{
+    margin-top: 60px;
+    padding-bottom: 60px;
+}
+.pdf-cont iframe{
+    border-radius: 10px;
 }
 
-.secondary-menu ul {
-    list-style: none;
-    padding: 0;
+@media (max-width: 1480px) {
+    .news-menu{
+        padding-top: 0px;
+        padding-bottom: 20px;
+        /* background-color: #151414; */
+    }
+
+    .news-menu-mob{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .newsbtn {
+        max-width: 300px;
+        color: #fff;
+        border-style: solid;
+        border-color: #fff;
+        border-radius: 35px;
+        margin: 20px 10px;
+        padding: 0 20px;
+    }
 }
 
-.secondary-menu li {
-    margin: 10px 0;
-}
+@media (min-width: 1480px) {
+    .newsyrtitle {
+        padding-top: 60px;
+    }
 
-.secondary-menu a {
-    text-decoration: none;
-    color: #fff;
-}
-.newsbtn{
-    position: sticky;
-    top: 150px;
-    z-index: 9;
-    max-width: 300px;
-    margin: 0;
-    color: #fff;
-    border-style: solid;
-    border-color: #fff;
-    border-radius: 35px;
-}
+    /* Style for the secondary menu */
+    .news-menu {
+        position: fixed;
+        color: #fff;
+        /* Text color */
+        width: 300px;
+        /* Width of the menu */
+        height: 100%;
+        /* Full height */
+        padding: 60px 20px;
+        /* Add some padding */
+    }
 
-@media (max-width: 767px) {
-    .hidden-mobile {
-        display: none;
+    .news-menu ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .news-menu li {
+        margin: 20px 0;
+    }
+
+    .news-menu a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .newsbtn {
+        position: sticky;
+        top: 150px;
+        z-index: 9;
+        max-width: 300px;
+        margin: 0;
+        color: #fff;
+        border-style: solid;
+        border-color: #fff;
+        border-radius: 35px;
     }
 }
