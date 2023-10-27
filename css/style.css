@@ -6248,3 +6248,115 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* Newsletter Page CSS */
+.news-col{
+  background-color: #000;
+}
+
+.newsyrtitle {
+  color: #fff;
+  font-size: 54px;
+  letter-spacing: 3px;
+  line-height: 1.5;
+}
+
+.quat{
+  color: #fff;
+  font-size: 24px;
+  letter-spacing: 0.1px;
+  line-height: 1.5;
+}
+
+@media (max-width: 400px) {
+  .quat{
+    font-size: 22px;
+  }
+}
+
+.quat-underline{
+  border-bottom: 2px solid #fc0;
+  padding: 0px 0px 0px 0px
+}
+
+.newsyellowhr {
+  width: 60px;
+  background-color: #fc0;
+  height: 4px;
+  line-height: 0;
+  margin: 21px auto 0;
+  width: 50px;
+}
+
+.pdf-cont{
+  margin-top: 60px;
+  padding-bottom: 60px;
+}
+.pdf-cont iframe{
+  border-radius: 10px;
+}
+
+@media (max-width: 1480px) {
+  .news-menu{
+      padding-top: 0px;
+      padding-bottom: 20px;
+  }
+
+  .news-menu-mob{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      flex-wrap: wrap;
+  }
+
+  .newsbtn {
+      max-width: 300px;
+      color: #fff;
+      border-style: solid;
+      border-color: #fff;
+      border-radius: 35px;
+      margin: 20px 10px;
+      padding: 0 20px;
+  }
+}
+
+@media (min-width: 1480px) {
+  .newsyrtitle {
+      padding-top: 60px;
+  }
+
+  .news-menu {
+      position: fixed;
+      color: #fff;
+      width: 300px;
+      height: 100%;
+      padding: 60px 20px;
+  }
+
+  .news-menu ul {
+      list-style: none;
+      padding: 0;
+  }
+
+  .news-menu li {
+      margin: 20px 0;
+  }
+
+  .news-menu a {
+      text-decoration: none;
+      color: #fff;
+  }
+
+  .newsbtn {
+      position: sticky;
+      top: 150px;
+      z-index: 9;
+      max-width: 300px;
+      margin: 0;
+      color: #fff;
+      border-style: solid;
+      border-color: #fff;
+      border-radius: 35px;
+  }
+}
