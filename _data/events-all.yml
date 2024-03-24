@@ -4840,6 +4840,7 @@ y2021:
           - /img/events/2020-2021/global-accessibility-awareness-day-2021/global-accessibility-awareness-day-2021-1.jpg
           - /img/events/2020-2021/global-accessibility-awareness-day-2021/global-accessibility-awareness-day-2021-2.jpg
           - /img/events/2020-2021/global-accessibility-awareness-day-2021/global-accessibility-awareness-day-2021-3.jpg
+
 y2022:
   july:
     au-revoir:
@@ -4878,6 +4879,7 @@ y2022:
           - /img/events/2020-2021/au-revoir/004.jpg
 
           - /img/events/2020-2021/au-revoir/005.jpg
+
 y2023:
   july:
     a-drop-of-change:
@@ -5807,7 +5809,8 @@ y2023:
           - /img/events/2022-2023/shikshana-2-mems/003.jpeg
 
           - /img/events/2022-2023/shikshana-2-mems/004.jpeg
-y2024:
+
+y2324:
   july:
     movie-night:
       - eventLink: movie-night
@@ -5888,6 +5891,7 @@ y2024:
           - /img/events/2023-2024/artshala/002.jpg
 
           - /img/events/2023-2024/artshala/003.jpg
+  
   august:
     RCK-Installation:
       - eventLink: RCK-Installation
@@ -5961,6 +5965,7 @@ y2024:
           - /img/events/2023-2024/Azadi-ka-Jashn-Jashn-e-Tiranga/Azadi ka Jashn, Jashn-e-Tiranga (3).jpg
 
           - /img/events/2023-2024/Azadi-ka-Jashn-Jashn-e-Tiranga/Azadi ka Jashn, Jashn-e-Tiranga (4).jpg
+  
   september:
     Samman-2-0:
       - eventLink: Samman-2-0
@@ -6028,3 +6033,327 @@ y2024:
 
         eventGallery:
           - /img/events/2023-2024/Project-Arivu-3-0-ft-PD\Project Arivu 3.0 ft. PD.jpg
+  
+  october:
+    X-Tream-Ride:
+      - eventLink: x-tream-ride
+        eventName: X Tream Ride (Ride 1.0)
+        eventDate: 1st October 2023
+        eventDateName: 1st - X Tream Ride (Ride 1.0)
+        eventTime: 7 AM
+        eventVenue: Multiple locations
+        eventAttendees: 19
+        eventVolHour: 246
+        eventDetails:
+          - "XTream ride is a first outing under the Travel Tribe fellowship group. 
+            Everyone met at a common point near Nexus mall koramangla and before reaching the destination, everyone had a scrumptious Breakfast on their way.
+            Later everyone reached the first destination `Isha foundation`.
+            After that everyone headed towards Dandanahalli dam and enjoyed the beautiful view and captured them for a life long memory."
+
+        eventGallery:
+          - /img/events/2023-2024/x-tream-ride/001.jpg
+
+          - /img/events/2023-2024/x-tream-ride/002.jpg
+
+          - /img/events/2023-2024/x-tream-ride/003.jpg
+
+          - /img/events/2023-2024/x-tream-ride/004.jpg
+
+    sangamam:
+      - eventLink: sangamam
+        eventName: Sangamam 1.0
+        eventDate: 8th October 2023
+        eventDateName: 8th - Sangamam
+        eventTime: 10:30 AM
+        eventVenue: YWCA, Koramangala
+        eventAttendees: 9
+        eventVolHour: 687
+        eventDetails:
+          - Sangamam 1.0 was a Next - Gen Services event aimed at celebrating and enhancing the bond of Rotary Bangalore Koramangala, Rotaract Club of Koramangala, Rotaract Club of JNC, Rotaract Club of KGI, and Rotaract Club of APSCE. The event included an engaging workshop, converastions on how to work together better, talented cultural programs , fun games for team building and a scumptious lunch. RCK worked for weeks to ensure the clubs worked together and helped members network and deepen their connections in the Rotary family.
+
+        eventGallery:
+          - /img/events/2023-2024/sangamam/001.jpg
+
+          - /img/events/2023-2024/sangamam/002.jpg
+
+          - /img/events/2023-2024/sangamam/003.jpg
+
+          - /img/events/2023-2024/sangamam/004.jpg
+
+    world-polio-day:
+      - eventLink: world-polio-day
+        eventName: World Polio Day
+        eventDate: 22nd October 2023
+        eventDateName: 22nd - World Polio Day
+        eventTime: 7 AM
+        eventVenue: Chikballapur
+        eventAttendees: 12
+        eventVolHour: 60
+        eventDetails:
+          - This was a project where we visited a village near Chikballapur to increase awareness about polio. We also partnered with the local authorities to help conduct a survey to collect information that'd help them predict any potential polio cases in the vincinity.
+
+        eventGallery:
+          - /img/events/2023-2024/world-polio-day/001.jpg
+
+          - /img/events/2023-2024/world-polio-day/002.jpg
+
+    polio-walkathon:
+      - eventLink: polio-walkathon
+        eventName: Polio Walkathon
+        eventDate: 28th October 2023
+        eventDateName: 28th - Polio Walkathon
+        eventTime: 7 AM
+        eventVenue: town Hall -> Lalbagh
+        eventAttendees: 35
+        eventVolHour: 175
+        eventDetails:
+          - Rotaract Clucb of Koramangala organized a successful 3 Km Polio Awareness Walkathon from Town Hall to Lal Bagh with an unexpected turnout, featuring a vibrant flashmob and an official ceremony. The event commenced with a flag-off by riders, followed by a hearty breakfast for all participants.
+
+        eventGallery:
+          - /img/events/2023-2024/poliothon/001.jpg
+
+          - /img/events/2023-2024/poliothon/002.jpg
+
+          - /img/events/2023-2024/poliothon/003.jpg
+
+          - /img/events/2023-2024/poliothon/004.jpg
+  
+  november:
+    khushiyon-ki-diwali:
+      - eventLink: khushiyon-ki-diwali
+        eventName: Khushiyon Ki Diwali
+        eventDate: 11th November 2023
+        eventDateName: 11th - Khushiyon Ki Diwali
+        eventTime: 10:30 AM
+        eventVenue: Gerizim Mission
+        eventAttendees: 22
+        eventVolHour: 55
+        eventDetails:
+          - "We celebrated Diwali and Children's day with the children of an orphanage
+            We played various activities with them and had lot of fun "
+
+        eventGallery:
+          - /img/events/2023-2024/khushiyon-ki-diwali/001.jpg
+
+          - /img/events/2023-2024/khushiyon-ki-diwali/002.jpg
+
+          - /img/events/2023-2024/khushiyon-ki-diwali/003.jpg
+
+    kare-charter-day:
+      - eventLink: kare-charter-day
+        eventName:  KARE & Charter Day Celebrations
+        eventDate: 26th November 2023
+        eventDateName: 26th - KARE & Charter Day Celebrations
+        eventTime: 8:30 AM
+        eventVenue: YWCA, Koramangala
+        eventAttendees: 9
+        eventVolHour: 70
+        eventDetails:
+          - "26th November 2023 marks a significant and momentous occasion for the Club and its members, as we assess and analyze updates on various fronts including avenues, projects, and member activities, reflecting on their performances. The Club and its members have contributed numerous cherished memories, shared good times, and provided unwavering support throughout our journey! 🥳
+            presenting to you KARE- Koramangala Activities Review and Evaluation"
+
+        eventGallery:
+          - /img/events/2023-2024/kare-charter-day/001.jpg
+
+          - /img/events/2023-2024/kare-charter-day/002.jpg
+
+          - /img/events/2023-2024/kare-charter-day/003.jpg
+
+    klp-6:
+      - eventLink: klp-6
+        eventName: Kannada Learning Program 6.0
+        eventDate: 1st - 26th November 2023
+        eventDateName: Kannada Learning Program 6.0
+        eventTime: 7:30 PM
+        eventVenue: Google Meet
+        eventAttendees: 12
+        eventVolHour: 24
+        eventDetails:
+          - "1.On the auspicious occasion of Karnataka Rajyotsava, the Kannada Learning Program is held every year from 1st November till end of the month in order to teach the non-native speakers the Kannada language.
+
+            2.In order to keep the participants engaged in the WhatsApp group. Posters were sent spontaneously along with the audio recordings for 13 days.
+
+            3.The live session was held every Sunday-8pm where we invited different speakers  who are fluent in kannada to teach as well as help the participants revise the content sent in the WhatsApp group. After revision, a google form quiz was sent during the live session  to help participants practice the language as well as receive corrections from the speakers."
+
+        eventGallery:
+          - /img/events/2023-2024/klp-6/001.jpg
+
+          - /img/events/2023-2024/klp-6/002.jpg
+
+          - /img/events/2023-2024/klp-6/003.jpg
+
+          - /img/events/2023-2024/klp-6/004.jpg
+
+
+  december:
+    celebrating-dimensions:
+      - eventLink: celebrating-dimensions
+        eventName: Celebrating Dimensions - The Happy Essence Of Menstruation 
+        eventDate: 29th December 2023
+        eventDateName: 29th - Celebrating Dimensions
+        eventTime: 8 PM
+        eventVenue: Google Meet
+        eventAttendees: 3
+        eventVolHour: 9
+        eventDetails:
+          - "This is an informative online session on the Menstrual Hygiene Management online session conducted by Dr. Aastha. 
+            The Menstrual Hygiene Management online session conducted by Dr. Aastha successfully.
+            She educated participants about menstrual hygiene, debunked myths, and empowered them to make informed choices. 
+            The session's interactive nature and comprehensive content contributed to its effectiveness in promoting better menstrual health practices.
+            Towards the end we had an qna sessions where participants were requested to ask their doubts over these topics."
+
+        eventGallery:
+          - /img/events/2023-2024/celebrating-dimensions/001.jpg
+
+          - /img/events/2023-2024/celebrating-dimensions/002.jpg
+
+          - /img/events/2023-2024/celebrating-dimensions/003.jpg
+
+    being-santa-7:
+      - eventLink: being-santa-7
+        eventName: Being Santa v7.0
+        eventDate: 31st December 2023
+        eventDateName: 31st - Being Santa v7.0
+        eventTime: 10:00 AM
+        eventVenue: Auxilium Navajeevana Home
+        eventAttendees: 18
+        eventVolHour: 60
+        eventDetails:
+          - "We visited Auxilium Navajeevana Organization on 31st of December 2023 inorder to celebrate Christmas and New Year with the children there.
+            Navajeevana means new life. Auxilium Navajeevana a non-governmental, non – profitable voluntary Organization was established in the year 1995, for children in need of care and protection.
+            We had few engaging games, songs and dance with the children. One of our member dressed up like Santa Claus and surprised the children and danced with them. 
+            With the funds collected we donated few of the basic groceries like oil, sugar, tea powder, soaps, detergents and many more. Gifted them chocolates, pens, earings and scrunchie. Those children had a great time with our members.
+            We wished them a happy new year and thanked the care takers."
+
+        eventGallery:
+          - /img/events/2023-2024/being-santa-7/001.jpg
+
+          - /img/events/2023-2024/being-santa-7/002.jpg
+
+          - /img/events/2023-2024/being-santa-7/003.jpg
+
+          - /img/events/2023-2024/being-santa-7/004.jpg
+
+    gifts-of-hope:
+      - eventLink: gifts-of-hope
+        eventName: Gifts of Hope-Santa's path to kindness 
+        eventDate: 1st-31st December 2023
+        eventDateName: Gifts of Hope 
+        eventTime: 8 PM
+        eventVenue: Multiple RI Districts
+        eventAttendees: 40+
+        eventVolHour: 50+
+        eventDetails:
+          - "Gifts of hope is an international project where the clubs had to visit an orphanage or old age home, interact with the people there and celebrate New year and Christmas with them.
+            Gifts of hope is an international project where the clubs had to visit an orphanage or old age home, interact with the people there and celebrate New year and Christmas with them.Then provide some necessary items to the organisation.
+            We had 4 clubs from various districts collaborated with us for this project, Rotaract club of Coorg Institute of Technology- RID 3181, Rotaract club of Dombivli East - RID 3142, Rotaract club of United Ranchi - RID 3250 and Rotaract club of M L Dahanukar college - RID 3141.
+            These clubs had a good time with the needy people and tried to fulfill little requirements for them.
+            People in all the organisations enjoyed the festive vibes and got all things they required."
+
+        eventGallery:
+          - /img/events/2023-2024/gifts-of-hope/001.jpg
+
+          - /img/events/2023-2024/gifts-of-hope/002.jpg
+
+          - /img/events/2023-2024/gifts-of-hope/003.jpg
+
+          - /img/events/2023-2024/gifts-of-hope/004.jpg
+
+  january:
+    linkedin-course:
+      - eventLink: linkedin-course
+        eventName: How to use LinkedIn effectively
+        eventDate: 12th January 2024
+        eventDateName: 12th - How to use LinkedIn effectively
+        eventTime: 7 PM
+        eventVenue: Google Meet
+        eventAttendees: 2
+        eventVolHour: 60+
+        eventDetails:
+          - "This was an initiative by Rotaract Club of USME where we collaborated on this insightful session on how to use LinkedIn effectively.
+            This session was taken by Mr Achyuta Bhidu who gave an overview about LinkedIn
+            We also got to know strategies to boost your LinkedIn presence"
+
+        eventGallery:
+          - /img/events/2023-2024/linkedin-course/001.jpg
+
+          - /img/events/2023-2024/linkedin-course/002.jpg
+
+          - /img/events/2023-2024/linkedin-course/003.jpg
+
+    strings-of-creativity:
+      - eventLink: strings-of-creativity
+        eventName: Strings of Creativity
+        eventDate: 28th January 2024
+        eventDateName: 28th - Strings of Creativity
+        eventTime: 10 AM
+        eventVenue: Auxilium Navajeevana Home
+        eventAttendees: 5
+        eventVolHour: 30
+        eventDetails:
+          - "This was an initiative by Rotaract Club of IIFT and Rotaract Club of Koramangala where we visited an orphanage and thought them to make bow hair ties
+            We also educated them on how they can start a business with this.
+            We also check on their interests how can we help them in developing skills in other aspects."
+
+        eventGallery:
+          - /img/events/2023-2024/strings-of-creativity/001.jpg
+
+          - /img/events/2023-2024/strings-of-creativity/002.jpg
+
+          - /img/events/2023-2024/strings-of-creativity/003.jpg
+
+          - /img/events/2023-2024/strings-of-creativity/004.jpg
+
+  february:
+    pawsitively-clean:
+      - eventLink: pawsitively-clean
+        eventName: Pawsitively Clean
+        eventDate: 24th February 2024
+        eventDateName: 24th - Pawsitively clean
+        eventTime: 8:45 PM
+        eventVenue: Maruthy Dog Shelter, Sarjapur
+        eventAttendees: 24
+        eventVolHour: 110
+        eventDetails:
+          - "An initiative by the Rotaract Club of Koramangala along with the Rotaract Club of Jyoti Nivas College, Rotaract Club of APS College of Engineering & Rotaract Club of Krupanidhi Group of Institutions.
+            The Rotaractors assembled at the venue & started networking with other club Members. 🤝
+            We started the event with a Formal Introduction of every Members.  🤝
+            Later, Gaurav explained all the Volunteers about the Role that each member will play. Also, the entire Members were divided into 3 Teams so that we could complete the works in a smoother way. 🗣
+            Three different teams started working in 3 different areas of the Shelter & helped the Shelter People in making the place better for the Dogs. 👨‍👩‍👦‍👦
+            Aditi, the In-Charge of the Place, was so happy & overwhelmed to see the number of Volunteers who turned up for the event. She was also happy to see the place clean after many days. 🧹
+            Aditi thanked all the Members & expressed her gratitude to all the Rotaractors. 🙏
+            We ended the event with a Happy Group Picture along with the Volunteers, Gaurav & Aditi. 📸  "
+
+        eventGallery:
+          - /img/events/2023-2024/pawsitively-clean/001.jpg
+
+          - /img/events/2023-2024/pawsitively-clean/002.jpg
+
+          - /img/events/2023-2024/pawsitively-clean/003.jpg
+
+          - /img/events/2023-2024/pawsitively-clean/004.jpg
+
+    fear-factor-4:
+      - eventLink: fear-factor-4
+        eventName: Fear Factor 4.0
+        eventDate: 25th February 2024
+        eventDateName: 25th - Fear Factor 4.0
+        eventTime: 10 AM
+        eventVenue: Cubbon Park
+        eventAttendees: 7
+        eventVolHour: 50
+        eventDetails:
+          - "This was an initiative by Rotaract Club of Koramangala along with Rotaract Club of Jayanagar & Rotaract Club of JP Nagar where we organised few activities.
+            The project began with an introduction of club members in a unique way followed by a fun activity to divide them into 4 groups
+            Rtr. Khushi and Rtr. Meenu explained the rules of the game and sent the list of activities to be completed by the club members within 45 minutes.
+            The winning group from the game was announced. 
+            Post this, all the participants took a group picture."
+
+        eventGallery:
+          - /img/events/2023-2024/fear-factor-4/001.jpg
+
+          - /img/events/2023-2024/fear-factor-4/002.jpg
+
+          - /img/events/2023-2024/fear-factor-4/003.jpg
+
+          - /img/events/2023-2024/fear-factor-4/004.jpg

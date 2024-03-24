@@ -1,10 +1,11 @@
 <div class="row justify-content-center">
-    <div class="col-md-4 col-lg-4 mb-4">
+    
+  <div class="col-md-4 col-lg-4 mb-4">
       <div class="card h-100">
         <div class="card-body jul p-4">
           <h3>July 2023</h3>
           <hr />
-          {% for row in site.data.events-all.y2024.july %} {% for eventsData in
+          {% for row in site.data.events-all.y2324.july %} {% for eventsData in
           row[1] %}
           <p>
             <a href="/events/{{eventsData.eventLink}}/"
@@ -16,13 +17,13 @@
         </div>
       </div>
     </div>
-    
-    <div class="col-md-4 col-lg-4 mb-4">
+       
+  <div class="col-md-4 col-lg-4 mb-4">
       <div class="card h-100">
           <div class="card-body aug p-4">
-              <h3>August 2022</h3>
+              <h3>August 2023</h3>
               <hr>
-              {% for row in site.data.events-all.y2024.august %}
+              {% for row in site.data.events-all.y2324.august %}
               {% for eventsData in row[1] %}
               <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
               <hr>
@@ -35,9 +36,9 @@
   <div class="col-md-4 col-lg-4 mb-4">
       <div class="card h-100">
           <div class="card-body sep p-4">
-              <h3>September 2022</h3>
+              <h3>September 2023</h3>
               <hr>
-              {% for row in site.data.events-all.y2024.september %}
+              {% for row in site.data.events-all.y2324.september %}
               {% for eventsData in row[1] %}
               <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
               <hr>
@@ -45,6 +46,81 @@
               {% endfor %}
           </div>
       </div>
+  </div>
+
+  <div class="col-md-4 col-lg-4 mb-4">
+    <div class="card h-100">
+        <div class="card-body oct p-4">
+            <h3>October 2023</h3>
+            <hr>
+            {% for row in site.data.events-all.y2324.october %}
+            {% for eventsData in row[1] %}
+            <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
+            <hr>
+            {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-lg-4 mb-4">
+    <div class="card h-100">
+        <div class="card-body nov p-4">
+            <h3>November 2023</h3>
+            <hr>
+            {% for row in site.data.events-all.y2324.november %}
+            {% for eventsData in row[1] %}
+            <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
+            <hr>
+            {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-lg-4 mb-4">
+    <div class="card h-100">
+        <div class="card-body dec p-4">
+            <h3>December 2023</h3>
+            <hr>
+            {% for row in site.data.events-all.y2324.december %}
+            {% for eventsData in row[1] %}
+            <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
+            <hr>
+            {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-lg-4 mb-4">
+    <div class="card h-100">
+        <div class="card-body jan p-4">
+            <h3>January 2024</h3>
+            <hr>
+            {% for row in site.data.events-all.y2324.january %}
+            {% for eventsData in row[1] %}
+            <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
+            <hr>
+            {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-lg-4 mb-4">
+    <div class="card h-100">
+        <div class="card-body feb p-4">
+            <h3>February 2024</h3>
+            <hr>
+            {% for row in site.data.events-all.y2324.february %}
+            {% for eventsData in row[1] %}
+            <p><a href="/events/{{eventsData.eventLink}}/">{{eventsData.eventDateName}}</a></p>
+            <hr>
+            {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
   </div>
   
 </div>
