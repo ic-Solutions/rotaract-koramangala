@@ -93,11 +93,9 @@ image: /img/about_img_1-new.png
                 <h2 class="text-center">Board Of Directors 2023-24</h2>
             </div>
             <div class="row photos">
-                <div class="col-lg-6 item"><a href="/img/team/2023-24/President.jpeg" data-lightbox="photos"><img class="img-fluid" src="/img/team/2023-24/President.jpeg" alt="Rotaract Koramangala Bengaluru President"></a></div>
-                <div class="col-lg-6 item"><a href="/img/team/2023-24/Vice President.jpeg" data-lightbox="photos"><img class="img-fluid" src="/img/team/2023-24/Vice President.jpeg" alt="Rotaract Koramangala Bengaluru Vice President"></a></div>
-                <div class="col-lg-6 item"><a href="/img/team/2023-24/Secretary Operations.jpeg" data-lightbox="photos"><img class="img-fluid" src="/img/team/2023-24/Secretary Operations.jpeg" alt="Rotaract Koramangala Bengaluru Secretary Operations"></a></div>
-                <div class="col-lg-6 item"><a href="/img/team/2023-24/Secretary Admin.jpeg" data-lightbox="photos"><img class="img-fluid" src="/img/team/2023-24/Secretary Admin.jpeg" alt="Rotaract Koramangala Bengaluru Secretary Admin"></a></div>
-                <div class="col-lg-6 offset-lg-3 item"><a href="/img/team/2023-24/Joint Secretary.jpeg" data-lightbox="photos"><img class="img-fluid" src="/img/team/2023-24/Joint Secretary.jpeg" alt="Rotaract Koramangala Bengaluru Joint Secretary"></a></div>
+                {% for i in (1..20) %}
+                    <div class="col-lg-6 item"><a href="/img/team/2023-24/{{i}}.jpg" data-lightbox="photos"><img class="img-fluid" src="/img/team/2023-24/{{i}}.jpg" alt="Rotaract Koramangala Bengaluru Board Member"></a></div>
+                {% endfor %}
             </div>
         </div>
     </div>
