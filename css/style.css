@@ -2532,7 +2532,7 @@ ul {
 /* line 41, E:/167 Bizcon Business/Bizcon_html/sass/_menu.scss */
 .menu_fixed {
   position: fixed;
-  z-index: 9999 !important;
+  z-index: 999 !important;
   width: 100%;
   background-color: #fff;
   box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.05);
@@ -4960,7 +4960,6 @@ ul {
 b,
 sup,
 sub,
-u,
 del {
   color: #ff7e5f;
 }
