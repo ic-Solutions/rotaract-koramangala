@@ -973,3 +973,60 @@ tr:nth-child(even) {
       border-radius: 35px;
   }
 }
+
+
+/* Styling for new newsletter template */
+#newsletter1, #newsletter2{
+    width: calc(90vh * (7 / 5));
+    height: calc(90vh);
+    overflow: hidden;
+}
+#newsletter1 .turn-page{
+    background-size: cover;
+    box-shadow: 0 0 5px 0 black inset;
+}
+
+#newsletter2 .turn-page{
+    background-size: cover;
+    box-shadow: 0 0 5px 0 black inset;
+}
+
+.cover{
+    box-shadow: 0px 5px 5px rgb(160, 158, 158);
+    cursor: pointer;
+}
+
+.modal-buttons i{
+    color: black; 
+    cursor: pointer;
+    transition-duration: 0.5s;
+    font-size: 2em;
+}
+.modal-buttons:hover i{
+    text-shadow: 0 0 5px grey;
+}
+
+.hint{
+    text-align: right;  
+    display: none;
+    position: absolute;
+    bottom: -20px;
+    right: 0;
+}
+.nl-close{
+    position:absolute;
+    right:-20px;
+    top: -30px;
+    font-size: 1.5rem;
+    font-weight: 800;
+    cursor:pointer;
+}
+
+@media (max-width: 400px) {
+    .modal-buttons{
+        display: none;
+    }
+    .hint{
+        display: block;
+    }
+}

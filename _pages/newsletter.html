@@ -5,27 +5,10 @@ title: Newsletter | Rotaract Club of Koramangala - Rotaract Bangalore
 image: /img/share-logo.png
 ---
 
-<!-- <section class="sep">
-    <style>
-    #newsletter1, #newsletter2{
-        width: 700px;
-        height: 500px;
-    }
-    #newsletter1 .turn-page{
-        background-size: contain;
-    }
-
-    #newsletter2 .turn-page{
-        background-size: contain;
-    }
-    .cover{
-        box-shadow: 0px 5px 5px rgb(160, 158, 158);
-        cursor: pointer;
-    }
-    </style>
+<section class="sep">
 
     <div class="container">
-        <h1 class="text-center text-light py-3"><u>2023-24</u></h1>
+        <h1 class="text-center text-light py-3"><m class="text-warning border border-warning rounded-pill px-4" style="border-width: 3px !important;">2023-24</m></h1>
         <div class="row justify-content-center align-items-center">
             <div class="col-lg-4 mx-5" type="button" data-toggle="modal" data-target="#nl1">
                 <img src="/img/bulletin23-24/1/1.webp" class="cover" alt="RaCK Bulletin">
@@ -38,62 +21,54 @@ image: /img/share-logo.png
         </div>
     </div>
 
-    <div class="modal fade" id="nl1">
-        <button type="button" class="close position-absolute top-0 right-0" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-        </button>
-        <div class="modal-dialog" style="max-width:max-content">
-            <div class="modal-content align-items-center p-2">
-                <div id="newsletter1">
-                    {% for i in (1..33) %}
-                    <div style="background-image: url(/img/bulletin23-24/1/{{ i }}.webp);"></div>
-                    {% endfor %}
+    <div class="modal fade" data-backdrop="static" id="nl1">
+        <div class="modal-dialog modal-dialog-centered mx-auto" style="max-width:max-content">
+            <div class="modal-content p-2">
+                <p class="nl-close text-light" data-dismiss="modal">x</p>
+                <div class="d-flex flex-row align-items-end">
+                    <div class="modal-buttons p-2 prev-button1">
+                        <i class="fa fa-reply" aria-hidden="true"></i>
+                    </div>
+                    <div id="newsletter1">
+                        {% for i in (1..33) %}
+                        <div style="background-image: url(/img/bulletin23-24/1/{{ i }}.webp);"></div>
+                        {% endfor %}
+                    </div>
+                    <div class="modal-buttons p-2 next-button1">
+                        <i class="fa fa-share" aria-hidden="true"></i>
+                    </div>
                 </div>
+                <div class="hint">Flip to read!</div>
             </div>
         </div>
     </div>
 
-    <div class="modal fade" id="nl2">
-        <div class="modal-dialog" style="max-width:max-content">
-            <div class="modal-content align-items-center p-2">
-                <div class="position-absolute">
-                    <button type="button" class="close position-absolute top-0 right-0" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
+    <div class="modal fade" data-backdrop="static" id="nl2">
+        <div class="modal-dialog modal-dialog-centered mx-auto" style="max-width:max-content">
+            <div class="modal-content p-2">
+                <p class="nl-close text-light" data-dismiss="modal">x</p>
+                <div class="d-flex flex-row align-items-end">
+                    <div class="modal-buttons p-2 prev-button2">
+                        <i class="fa fa-reply" aria-hidden="true"></i>
+                    </div>
+                    <div id="newsletter2">
+                        {% for i in (1..48) %}
+                        <div style="background-image: url(/img/bulletin23-24/2/{{ i }}.webp);"></div>
+                        {% endfor %}
+                    </div>
+                    <div class="modal-buttons p-2 next-button2">
+                        <i class="fa fa-share" aria-hidden="true"></i>
+                    </div>
                 </div>
-                <div id="newsletter2">
-                    {% for i in (1..48) %}
-                    <div style="background-image: url(/img/bulletin23-24/2/{{ i }}.webp);"></div>
-                    {% endfor %}
-                </div>
+                <div class="hint">Flip to read!</div>
             </div>
         </div>
-        <div class="overlay"></div>
     </div>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="/js/turn.js"></script>
-    <script>
-        $('#newsletter1').turn({gradients: true, acceleration: true});
-        $('#newsletter2').turn({gradients: true, acceleration: true});
+</section>
 
-        window.addEventListener('resize', function() {
-            const width = window.innerWidth;
-            const height = window.innerHeight;
-            
-            var nl1 = document.getElementById("newsletter1");
-            nl1.style.width = "80vw";
-            nl2.style.height = toString(80*1.4)+"vw";
-            $('#newsletter1').turn('display', single);
-            
-        });
-    </script>
+<!-- <div class="news-col">
 
-</section> -->
-
-<div class="news-col">
-
-    Filter menu
     <div class="news-menu">
         <ul class="news-menu-mob">
             <li>
@@ -138,4 +113,4 @@ image: /img/share-logo.png
             style="border: 1px solid lightgray; width: 100%; height: 800px;"></iframe>
     </div>
 
-</div>
+</div> -->
