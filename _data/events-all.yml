@@ -6357,3 +6357,209 @@ y2324:
           - /img/events/2023-2024/fear-factor-4/003.jpg
 
           - /img/events/2023-2024/fear-factor-4/004.jpg
+
+  march:
+    gather:
+      - eventLink: gather
+        eventName: Gather
+        eventDate: 10th March 2024
+        eventDateName: 10th - Gather
+        eventTime: 2 PM
+        eventVenue: Cubbon Park
+        eventAttendees: 16
+        eventVolHour: 16
+        eventDetails:
+          - " Rotaract Club of Koramangala conducted Gather, to commemorate International Women's Day. The event was held at Cubbon park and was kicked off at 2 PM sharp. What followed was a fun filled hour where the members played a variety of games that promoted teamwork and fellowship. The Day ended with thanksgiving session where all the participants thanked the important women in their lives, followed by a card making session. These cards were presented to women in the vicinity to thank and appreciate their efforts towards those around them."
+
+        eventGallery:
+          - /img/events/2023-2024/gather/001.jpg
+
+          - /img/events/2023-2024/gather/002.jpg
+
+          - /img/events/2023-2024/gather/003.jpg
+
+          - /img/events/2023-2024/gather/004.jpg
+
+    gums-and-glory:
+      - eventLink: gums-and-glory
+        eventName: Gums and Glory
+        eventDate: 15th March 2024
+        eventDateName: 15th - Gums and Glory
+        eventTime: 8 PM
+        eventVenue: Google Meet
+        eventAttendees: 14
+        eventVolHour: 20
+        eventDetails:
+          - "On 15th March, an online event about oral hygiene was conducted by Dr. Ashwin.. The session aimed to educate participants on the importance of maintaining good oral health. Dr. Ashwin, a renowned expert in the field, shared valuable insights and tips on how to prevent dental problems and achieve optimal oral hygiene.<br> 
+          During the event, participants were enlightened about the significance of regular brushing, flossing, and dental check-ups. Dr. Ashwin emphasized the link between oral health and overall well-being, highlighting how poor oral hygiene can lead to various health issues, including gum disease, heart disease, and diabetes.<br> 
+          The online session also featured interactive Q&A sessions, where attendees had the opportunity to ask Dr. Ashwin questions and seek personalized advice on oral care routines. Overall, the event was a great success, providing attendees with practical knowledge and tools to improve their oral hygiene and lead healthier lives."
+
+        eventGallery:
+          - /img/events/2023-2024/gums-and-glory/001.jpg
+
+          - /img/events/2023-2024/gums-and-glory/002.jpg
+
+          - /img/events/2023-2024/gums-and-glory/003.jpg
+
+          - /img/events/2023-2024/gums-and-glory/004.jpg
+    
+    rewind-2024:
+      - eventLink: rewind-2024
+        eventName: Rewind - DRR's Official Visit
+        eventDate: 31st March 2024
+        eventDateName: 31st - Rewind - DOV
+        eventTime: 9 AM
+        eventVenue: Koramangala Club
+        eventAttendees: 90
+        eventVolHour: 500
+        eventDetails:
+          - "The District Rotaract Representative and the District Official visits a club and looks on the reports and the administration of the club.<br>
+          The setup has 3 formats. 1. Closed door Meeting, 2. Board of Directors Meeting, 3. General Body Meeting.<br>
+          The team got to know how our club functions and we got few inputs from the district team.<br>
+          We ended the event with the group picture."
+
+        eventGallery:
+          - /img/events/2023-2024/rewind/001.jpg
+
+          - /img/events/2023-2024/rewind/002.jpg
+
+          - /img/events/2023-2024/rewind/003.jpg
+
+          - /img/events/2023-2024/rewind/004.jpg
+
+  april:
+    reminiscence-8:
+      - eventLink: reminiscence-8
+        eventName: Reminiscence 8.0
+        eventDate: 20th April 2024
+        eventDateName: 20th - Reminiscence 8.0
+        eventTime: 7 PM
+        eventVenue: Koramangala Club
+        eventAttendees: 66
+        eventVolHour: 175
+        eventDetails:
+          - "Reminiscence is a flagship event of our Club where we host a Family night for Rotary Club of Bangalore Koramangala.<br>
+          This year we conducted the 8th Version of this Project with 'Indian Cinema' as the theme for the night. <br>
+          The main aim of the project was to ensure that the attendees had a relaxed evening along with a fun set of activities to recollect their favorites in Indian Cinema."
+
+        eventGallery:
+          - /img/events/2023-2024/reminiscence-8.0/001.jpg
+
+          - /img/events/2023-2024/reminiscence-8.0/002.jpg
+
+          - /img/events/2023-2024/reminiscence-8.0/003.jpg
+
+          - /img/events/2023-2024/reminiscence-8.0/004.jpg
+
+    gamepoint-5:
+      - eventLink: gamepoint-5
+        eventName: GamePoint 5.0
+        eventDate: 28th April 2024
+        eventDateName: 28th - GamePoint 5.0
+        eventTime: 9 AM
+        eventVenue: Feather Touch, JP-Nagar
+        eventAttendees: 200+
+        eventVolHour: 672
+        eventDetails:
+          - "Bringing back the legendary fundraiser, this year's GamePoint happened at Feather Touch, JP Nagar. <br>
+          The flagship event saw over a 120 entries across 4 categories. <br>
+          This year's cause was water, sanitation and hygiene. <br>
+          The event started at 9 AM and went on till 5:30 PM. The Men's Singles and Doubles categories were conducted throughout the duration while the Women's Singles and Mixed Doubles categories were held between 9AM to 12PM. <br>
+          The tournament was wrapped up successfully with a vote of thanks by the core team and the project chairs.<br>
+          We Raised INR 1,20,250/-"
+
+        eventGallery:
+          - /img/events/2023-2024/gamepoint-5.0/001.jpg
+
+          - /img/events/2023-2024/gamepoint-5.0/002.jpg
+
+          - /img/events/2023-2024/gamepoint-5.0/003.jpg
+
+          - /img/events/2023-2024/gamepoint-5.0/004.jpg
+
+  may:
+    gleam-and-gratitude:
+      - eventLink: gleam-and-gratitude
+        eventName: Gleam and Gratitude
+        eventDate: 1st May 2024
+        eventDateName: 1st - Gleam and Gratitude
+        eventTime: 9 AM
+        eventVenue: Koramangala - 4th block
+        eventAttendees: 45
+        eventVolHour: 22
+        eventDetails:
+          - " In observance of International Labour Day, we connected with the cleaning staff of BBMP in Koramangala 4th block.<br>
+          Engaging with them, we gained insights into their work, challenges, and needs.<br>
+          As a gesture of appreciation, both they and we shared songs dedicated to one another.<br>
+          Providing snacks and beverages, we also captured a group photograph together."
+
+        eventGallery:
+          - /img/events/2023-2024/gleam-and-gratitude/001.jpg
+
+          - /img/events/2023-2024/gleam-and-gratitude/002.jpg
+
+          - /img/events/2023-2024/gleam-and-gratitude/003.jpg
+
+          - /img/events/2023-2024/gleam-and-gratitude/004.jpg
+
+    movie-magic-little-stars:
+      - eventLink: movie-magic-little-stars
+        eventName: Movie Magic with Little Stars
+        eventDate: 5th May 2024
+        eventDateName: 5th - Movie Magic with Little Stars
+        eventTime: 6:00 PM
+        eventVenue: Cinepolis, ETA Mall
+        eventAttendees: 55
+        eventVolHour: 65
+        eventDetails:
+          - " This was an initiative by Rotaract Club of Koramangala where we took the kids of Orphanage to watch a motivating movie named main ladega.<br>
+           The kids had a great time visiting the mall and watching the movie.<br>
+           The movie was screened at Cinepolis Eta Mall. At the end of movie everyone were discussing about the movie and the good parts of movie and made the bond between the kids more stronger."
+
+        eventGallery:
+          - /img/events/2023-2024/movie-magic-little-stars/001.jpg
+
+          - /img/events/2023-2024/movie-magic-little-stars/002.jpg
+
+          - /img/events/2023-2024/movie-magic-little-stars/003.jpg
+
+    sankalpa:
+      - eventLink: sankalpa
+        eventName: Sankalpa
+        eventDate: 22nd May 2024
+        eventDateName: 22nd - Sankalpa
+        eventTime: 8 PM
+        eventVenue: Google Meet
+        eventAttendees: 36
+        eventVolHour: 110
+        eventDetails:
+          - "Sankalpa is an orientation session for all the interested members to join the BOD. <br>
+          PP Rtr Hemanth Chajjer leaded the session and gave a brief about the avenue's roles and responsibilities. <br>
+          We had many members talking about their experience in that particular avenue as well."
+
+        eventGallery:
+          - /img/events/2023-2024/sankalpa/001.jpg
+
+          - /img/events/2023-2024/sankalpa/002.jpg
+
+    vote-india:
+      - eventLink: vote-india
+        eventName: Vote India
+        eventDate: 31st May 2024
+        eventDateName: 31st - Vote India
+        eventTime: All Day
+        eventVenue: Instagram
+        eventAttendees: 35
+        eventVolHour: 40
+        eventDetails:
+          - "Sankalpa is an orientation session for all the interested members to join the BOD. <br>
+          PP Rtr Hemanth Chajjer leaded the session and gave a brief about the avenue's roles and responsibilities. <br>
+          We had many members talking about their experience in that particular avenue as well."
+
+        eventGallery:
+          - /img/events/2023-2024/vote-india/001.jpg
+
+          - /img/events/2023-2024/vote-india/002.jpg
+
+          - /img/events/2023-2024/vote-india/003.jpg
+ 
