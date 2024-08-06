@@ -976,7 +976,7 @@ tr:nth-child(even) {
 
 
 /* Styling for new newsletter template */
-#newsletter1, #newsletter2{
+#newsletter1, #newsletter2, #newsletter3{
     width: calc(90vh * (7 / 5));
     height: calc(90vh);
     overflow: hidden;
@@ -987,6 +987,11 @@ tr:nth-child(even) {
 }
 
 #newsletter2 .turn-page{
+    background-size: cover;
+    box-shadow: 0 0 5px 0 black inset;
+}
+
+#newsletter3 .turn-page{
     background-size: cover;
     box-shadow: 0 0 5px 0 black inset;
 }

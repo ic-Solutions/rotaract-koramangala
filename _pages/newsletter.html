@@ -10,13 +10,17 @@ image: /img/share-logo.png
     <div class="container">
         <h1 class="text-center text-light py-3"><m class="text-warning border border-warning rounded-pill px-4" style="border-width: 3px !important;">2023-24</m></h1>
         <div class="row justify-content-center align-items-center">
-            <div class="col-lg-4 mx-5" type="button" data-toggle="modal" data-target="#nl1">
+            <div class="col-lg-3 mx-5" type="button" data-toggle="modal" data-target="#nl1">
                 <img src="/img/bulletin23-24/1/1.webp" class="cover" alt="RaCK Bulletin">
                 <h2 class="text-light text-center my-2">Quarter 1</h2>
             </div>
-            <div class="col-lg-4 mx-5" type="button" data-toggle="modal" data-target="#nl2">
+            <div class="col-lg-3 mx-5" type="button" data-toggle="modal" data-target="#nl2">
                 <img src="/img/bulletin23-24/2/1.webp" class="cover" alt="RaCK Bulletin">
                 <h2 class="text-light text-center my-2">Quarter 2 & 3</h2>
+            </div>
+            <div class="col-lg-3 mx-5" type="button" data-toggle="modal" data-target="#nl3">
+                <img src="/img/bulletin23-24/3/page (1).webp" class="cover" alt="RaCK Bulletin">
+                <h2 class="text-light text-center my-2">Quarter 4</h2>
             </div>
         </div>
     </div>
@@ -57,6 +61,28 @@ image: /img/share-logo.png
                         {% endfor %}
                     </div>
                     <div class="modal-buttons p-2 next-button2">
+                        <i class="fa fa-share" aria-hidden="true"></i>
+                    </div>
+                </div>
+                <div class="hint">Flip to read!</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" data-backdrop="static" id="nl3">
+        <div class="modal-dialog modal-dialog-centered mx-auto" style="max-width:max-content">
+            <div class="modal-content p-2">
+                <p class="nl-close text-light" data-dismiss="modal">x</p>
+                <div class="d-flex flex-row align-items-end">
+                    <div class="modal-buttons p-2 prev-button3">
+                        <i class="fa fa-reply" aria-hidden="true"></i>
+                    </div>
+                    <div id="newsletter3">
+                        {% for i in (1..28) %}
+                        <div style="background-image: url('/img/bulletin23-24/3/page ({{ i }}).webp');"></div>
+                        {% endfor %}
+                    </div>
+                    <div class="modal-buttons p-2 next-button3">
                         <i class="fa fa-share" aria-hidden="true"></i>
                     </div>
                 </div>

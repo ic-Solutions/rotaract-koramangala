@@ -1936,7 +1936,7 @@ $.isTouch = isTouch;
 // fetching both divs
 var nl1 = document.getElementById("newsletter1");
 var nl2 = document.getElementById("newsletter2"); 
-
+var nl3 = document.getElementById("newsletter3");
 	if(window.innerWidth <= 480){ // if on mobile, calculating based on max width
 		nl1.style.width = "80vw";
 		nl1.style.height = (window.innerWidth * 0.8 * (7 / 5) )+"px";
@@ -1952,7 +1952,7 @@ var nl2 = document.getElementById("newsletter2");
 
 	$('#newsletter1').turn({gradients: true, acceleration: true}); // init both books
 	$('#newsletter2').turn({gradients: true, acceleration: true});
-	
+	$('#newsletter3').turn({gradients: true, acceleration: true});
 	if(window.innerWidth <= 480) {	// after init, if on mobile set to single page mode
 		$('#newsletter1').turn('display', 'single');
 		$('#newsletter2').turn('display', 'single');
@@ -1964,24 +1964,31 @@ var nl2 = document.getElementById("newsletter2");
 			nl1.style.height = (window.innerWidth * 0.8 * (7 / 5) )+"px";
 			nl2.style.width = "80vw";
 			nl2.style.height = (window.innerWidth * 0.8 * (7 / 5) )+"px";
+			nl3.style.width = "80vw";
+			nl3.style.height = (window.innerWidth * 0.8 * (7 / 5) )+"px";
 		}
 		else{
 			nl1.style.height = "90vh";
 			nl1.style.width = (window.innerHeight * 0.9 * (7 / 5) )+"px";
 			nl2.style.height = "90vh";
 			nl2.style.width = (window.innerHeight * 0.9 * (7 / 5) )+"px";
+			nl3.style.height = "90vh";
+			nl3.style.width = (window.innerHeight * 0.9 * (7 / 5) )+"px";
 		}
 
 		$('#newsletter1').turn('size',nl1.style.width,nl1.style.height); // resizing the books
-		$('#newsletter2').turn('size',nl1.style.width,nl1.style.height);
+		$('#newsletter2').turn('size',nl2.style.width,nl2.style.height);
+		$('#newsletter3').turn('size',nl3.style.width,nl3.style.height);
 
 		if(window.innerWidth <= 480) {
 			$('#newsletter1').turn('display', 'single');
 			$('#newsletter2').turn('display', 'single');
+			$('#newsletter3').turn('display', 'single');
 		}
 		else{
 			$('#newsletter1').turn('display', 'double');
 			$('#newsletter2').turn('display', 'double');
+			$('#newsletter3').turn('display', 'double');
 		}
 	});
 	// functions for the navigation buttons
@@ -1996,6 +2003,12 @@ var nl2 = document.getElementById("newsletter2");
 	});
 	$('.prev-button2').click(function(){
 		$('#newsletter2').turn('previous');            
+	});
+	$('.next-button3').click(function(){
+		$('#newsletter3').turn('next');            
+	});
+	$('.prev-button3').click(function(){
+		$('#newsletter3').turn('previous');            
 	});
 	// function to auto fullscreen whenever a cover is clicked on
 	$('[data-toggle="modal"]').click(function() {
